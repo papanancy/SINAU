@@ -22,7 +22,7 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "admob",
+      "main_ad": "fan",
       "backup_ad": "none",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
@@ -75,12 +75,12 @@
   "categories": [
     {
       "id": 1,
-      "name": "Apps",
+      "name": "Tips",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/apps.png"
     },
     {
       "id": 2,
-      "name": "Game",
+      "name": "Trick",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/game.png"
     },
     {
