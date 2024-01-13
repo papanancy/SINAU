@@ -177,12 +177,6 @@
   "more_apps": [
     {
       "id": 0,
-      "title": "",
-      "image": "",
-      "url": ""
-    },
-    {
-      "id": 0,
       "title": "Stream Json",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
       "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
