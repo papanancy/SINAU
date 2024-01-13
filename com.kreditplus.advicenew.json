@@ -56,7 +56,7 @@
       "wortise_app_open_id": "test-app-open",
       "interstitial_ad_interval": 3,
       "native_ad_index": 1,
-      "native_ad_interval": 8,
+      "native_ad_interval": 4,
       "native_ad_style": "medium",
       "native_ad_post_details_position": "top",
       "show_banner_ad_home": true,
@@ -75,12 +75,12 @@
   "categories": [
     {
       "id": 1,
-      "name": "Tips",
+      "name": "Panduan",
       "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGE/kategori/WhatsApp%20Image%202024-01-11%20at%2013.49.54.jpeg"
     },
     {
       "id": 2,
-      "name": "Bermain",
+      "name": "Tips",
       "image": "https://drive.google.com/file/d/199fMR9SZXV4ng4h0JP8eBWfQOx2DXfne/view?usp=sharing.jpg"
     },
     
@@ -89,7 +89,7 @@
   "posts": [
     {
       "id": 1,
-      "category": "Aplikasi",
+      "category": "Panduan",
       "title": "Cara cek Pinjol",
       "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGE/kategori/WhatsApp%20Image%202024-01-11%20at%2013.49.54.jpeg",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/kontenhtml/Cara%20Cek%20Pinjol.html",
@@ -97,80 +97,160 @@
     },
     {
       "id": 2,
-      "category": "",
-      "title": "",
+      "category": "Panduan",
+      "title": "Ini Dia Cara Melakukan Pinjaman Online agar Cepat Cair!",
       "image": "",
       "content": "",
       "video": ""
     },
     {
       "id": 3,
-      "category": "",
-      "title": "",
+      "category": "Panduan",
+      "title": "Cara Melakukan Pinjaman Online",
       "image": "",
       "content": "",
       "video": ""
     },
     {
       "id": 4,
-      "category": "",
-      "title": "",
+      "category": "Panduan",
+      "title": "Tips Mengajukan Pinjaman Online agar Cepat Cair",
       "image": "",
       "content": "",
       "video": ""
     },
     {
       "id": 5,
-      "category": "",
-      "title": "",
+      "category": "Panduan",
+      "title": "Daftar Pinjol Resmi OJK 2024, Dijamin Aman dan Cepat Cair!",
       "image": "",
       "content": "",
       "video": ""
     },
     {
       "id": 6,
-      "category": "",
-      "title": "",
+      "category": "Panduan",
+      "title": "Easycash",
       "image": "",
       "content": "",
       "video": ""
     },
     {
       "id": 7,
-      "category": "",
-      "title": "",
+      "category": "Panduan",
+      "title": "Danafix",
       "image": "",
       "content": "",
       "video": ""
     },
     {
       "id": 8,
-      "category": "",
-      "title": "",
+      "category": "Panduan",
+      "title": "Julo",
       "image": "",
       "content": "",
       "video": ""
     },
     {
       "id": 9,
-      "category": "",
-      "title": "",
+      "category": "Panduan",
+      "title": "Maucash",
       "image": "",
       "content": "",
       "video": ""
     },
     {
       "id": 10,
-      "category": "",
-      "title": "",
+      "category": "Panduan",
+      "title": "Danamas",
       "image": "",
       "content": "",
       "video": ""
     },
     {
       "id": 11,
-      "category": "",
-      "title": "",
+      "category": "Tips",
+      "title": "MEKAR",
+      "image": "",
+      "content": "",
+      "video": ""
+    }
+    {
+      "id": 12,
+      "category": "Tips",
+      "title": "Indodana",
+      "image": "",
+      "content": "",
+      "video": ""
+    }
+    {
+      "id": 13,
+      "category": "Tips",
+      "title": "Kredit Pintar",
+      "image": "",
+      "content": "",
+      "video": ""
+    }
+    {
+      "id": 14,
+      "category": "Tips",
+      "title": "AdaKami",
+      "image": "",
+      "content": "",
+      "video": ""
+    }
+    {
+      "id": 15,
+      "category": "Tips",
+      "title": "DanaRupiah",
+      "image": "",
+      "content": "",
+      "video": ""
+    }
+    {
+      "id": 16,
+      "category": "Tips",
+      "title": "RupiahCepat",
+      "image": "",
+      "content": "",
+      "video": ""
+    }
+    {
+      "id": 17,
+      "category": "Tips",
+      "title": "Amartha",
+      "image": "",
+      "content": "",
+      "video": ""
+    }
+    {
+      "id": 18,
+      "category": "Tips",
+      "title": "OK! Bank KTA",
+      "image": "",
+      "content": "",
+      "video": ""
+    }
+    {
+      "id": 19,
+      "category": "Tips",
+      "title": "KoinWorks",
+      "image": "",
+      "content": "",
+      "video": ""
+    }
+    {
+      "id": 20,
+      "category": "Tips",
+      "title": "KlikA2C",
+      "image": "",
+      "content": "",
+      "video": ""
+    }
+    {
+      "id": 21,
+      "category": "Tips",
+      "title": "KTA Kilat",
       "image": "",
       "content": "",
       "video": ""
@@ -179,13 +259,13 @@
   "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
+      "title": "Danafix",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
       "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
     },
     {
       "id": 2,
-      "title": "Stream Json",
+      "title": "Danamu",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
       "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
     },
