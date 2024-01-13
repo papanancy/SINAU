@@ -22,7 +22,7 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "admob",
+      "main_ad": "fan",
       "backup_ad": "none",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
@@ -90,9 +90,9 @@
     {
       "id": 1,
       "category": "Aplikasi",
-      "title": "Aplikasi Coba Tante Mpa",
+      "title": "Cara cek Pinjol",
       "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGE/kategori/WhatsApp%20Image%202024-01-11%20at%2013.49.54.jpeg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/kontenhtml/cobaa.html",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/kontenhtml/Cara%20Cek%20Pinjol.html",
       "video": ""
     },
     {
