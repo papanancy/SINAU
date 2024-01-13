@@ -76,12 +76,12 @@
     {
       "id": 1,
       "name": "Panduan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGE/kategori/WhatsApp%20Image%202024-01-11%20at%2013.49.54.jpeg"
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Panduan.png"
     },
     {
       "id": 2,
       "name": "Tips",
-      "image": "https://drive.google.com/file/d/199fMR9SZXV4ng4h0JP8eBWfQOx2DXfne/view?usp=sharing.jpg"
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Tips.png"
     },
     
     
@@ -91,7 +91,7 @@
       "id": 1,
       "category": "Panduan",
       "title": "Cara cek Pinjol",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGE/kategori/WhatsApp%20Image%202024-01-11%20at%2013.49.54.jpeg",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/1.Cara%20Cek%20Pinjol.html",
       "video": ""
     },
@@ -99,7 +99,7 @@
       "id": 2,
       "category": "Panduan",
       "title": "Ini Dia Cara Melakukan Pinjaman Online agar Cepat Cair!",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/2.Ini%20Dia%20Cara%20Melakukan%20Pinjaman%20Online%20agar%20Cepat%20Cair!.html",
       "video": ""
     },
@@ -107,7 +107,7 @@
       "id": 3,
       "category": "Panduan",
       "title": "Cara Melakukan Pinjaman Online",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/3.Cara%20Melakukan%20Pinjaman%20Online.html",
       "video": ""
     },
@@ -115,7 +115,7 @@
       "id": 4,
       "category": "Panduan",
       "title": "Tips Mengajukan Pinjaman Online agar Cepat Cair",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/4.Tips%20Mengajukan%20Pinjaman%20Online%20agar%20Cepat%20Cair.html",
       "video": ""
     },
@@ -123,7 +123,7 @@
       "id": 5,
       "category": "Panduan",
       "title": "Daftar Pinjol Resmi OJK 2024, Dijamin Aman dan Cepat Cair!",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/5.103%2B%20Daftar%20Pinjol%20Resmi%20OJK%202024%2C%20Dijamin%20Aman%20dan%20Cepat%20Cair!.html",
       "video": ""
     },
@@ -131,7 +131,7 @@
       "id": 6,
       "category": "Panduan",
       "title": "Easycash",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/6.Easycash.html",
       "video": ""
     },
@@ -139,7 +139,7 @@
       "id": 7,
       "category": "Panduan",
       "title": "Danafix",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/7.Danafix.html",
       "video": ""
     },
@@ -147,7 +147,7 @@
       "id": 8,
       "category": "Panduan",
       "title": "Julo",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/8.Julo.html",
       "video": ""
     },
@@ -155,7 +155,7 @@
       "id": 9,
       "category": "Panduan",
       "title": "Maucash",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/9.Maucash.html",
       "video": ""
     },
@@ -163,7 +163,7 @@
       "id": 10,
       "category": "Panduan",
       "title": "Danamas",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/10.Danamas.html",
       "video": ""
     },
@@ -171,7 +171,7 @@
       "id": 11,
       "category": "Tips",
       "title": "MEKAR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image21.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/11.MEKAR.html",
       "video": ""
     }
@@ -179,7 +179,7 @@
       "id": 12,
       "category": "Tips",
       "title": "Indodana",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image21.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/12.Indodana.html",
       "video": ""
     }
@@ -187,7 +187,7 @@
       "id": 13,
       "category": "Tips",
       "title": "Kredit Pintar",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image21.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/13.Kredit%20Pintar.html",
       "video": ""
     }
@@ -195,7 +195,7 @@
       "id": 14,
       "category": "Tips",
       "title": "AdaKami",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image21.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/14.AdaKami.html",
       "video": ""
     }
@@ -203,7 +203,7 @@
       "id": 15,
       "category": "Tips",
       "title": "DanaRupiah",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image21.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/15.DanaRupiah.html",
       "video": ""
     }
@@ -211,7 +211,7 @@
       "id": 16,
       "category": "Tips",
       "title": "RupiahCepat",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image21.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/16.RupiahCepat.html",
       "video": ""
     }
@@ -219,7 +219,7 @@
       "id": 17,
       "category": "Tips",
       "title": "Amartha",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image21.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/17.Amartha.html",
       "video": ""
     }
@@ -227,7 +227,7 @@
       "id": 18,
       "category": "Tips",
       "title": "OK! Bank KTA",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image21.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/18.OK!%20Bank%20KTA.html",
       "video": ""
     }
@@ -235,7 +235,7 @@
       "id": 19,
       "category": "Tips",
       "title": "KoinWorks",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image21.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/19.KoinWorks.html",
       "video": ""
     }
@@ -243,7 +243,7 @@
       "id": 20,
       "category": "Tips",
       "title": "KlikA2C",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image21.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/20.KlikA2C.html",
       "video": ""
     }
@@ -251,7 +251,7 @@
       "id": 21,
       "category": "Tips",
       "title": "KTA Kilat",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image21.png",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTHTML/21.KTA%20Kilat.html",
       "video": ""
     }
@@ -260,14 +260,14 @@
     {
       "id": 1,
       "title": "Danafix",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/MOREAPPS/danafix.png",
+      "url": "https://play.google.com/store/apps/details?id=com.danafix.pinjamanclue.terbaru"
     },
     {
       "id": 2,
       "title": "Danamu",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/MOREAPPS/danamu.png",
+      "url": "https://play.google.com/store/apps/details?id=com.thekeongbalab.danamuadvice"
     },
     
   ]
