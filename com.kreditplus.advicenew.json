@@ -3,8 +3,8 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=IT3Fcr2eVcn3Y7LeLuIjalmwDjOKG3Kb",
-      "email_feedback_and_report": "papasinau@gmail.com",
+      "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
+      "email_feedback_and_report": "youremail@gmail.com",
       "webview_cache": true,
       "post_list_in_large_style": false,
       "show_post_list_header": true,
@@ -22,7 +22,7 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "fan",
+      "main_ad": "admob",
       "backup_ad": "none",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
@@ -75,21 +75,56 @@
   "categories": [
     {
       "id": 1,
-      "name": "Tips",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGE/kategori/Tips.jpg"
+      "name": "Apps",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/apps.png"
     },
     {
       "id": 2,
-      "name": "Trick",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGE/kategori/Trick.png"
+      "name": "Game",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/game.png"
     },
-    
+    {
+      "id": 3,
+      "name": "OS",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/os.png"
+    },
+    {
+      "id": 4,
+      "name": "Coding",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/programming.png"
+    },
+    {
+      "id": 5,
+      "name": "Mods",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/mods.png"
+    },
+    {
+      "id": 6,
+      "name": "How To",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png"
+    },
+    {
+      "id": 7,
+      "name": "Tips & Trick",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/tips-trick.png"
+    },
+    {
+      "id": 8,
+      "name": "Lifestyle",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/lifestyle.png"
+    },
+    {
+      "id": 9,
+      "name": "Android",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/android.png"
+    }
+  ],
   "posts": [
     {
       "id": 1,
       "category": "Game, Tips & Trick",
-      "title": "epep: best",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGE/kategori/Tips.jpg",
+      "title": "Free Fire: Top 10 best M1014 gun skins in the game",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/free-fire.jpg",
       "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/free-fire.html",
       "video": ""
     },
@@ -176,7 +211,13 @@
   ],
   "more_apps": [
     {
-      "id": 0,
+      "id": 1,
+      "title": "Guide Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+    },
+    {
+      "id": 2,
       "title": "Stream Json",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
       "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
