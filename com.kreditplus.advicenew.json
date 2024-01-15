@@ -75,55 +75,20 @@
   "categories": [
     {
       "id": 1,
-      "name": "Apps",
+      "name": "Panduan",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/apps.png"
     },
     {
       "id": 2,
-      "name": "Game",
+      "name": "Tips",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/game.png"
-    },
-    {
-      "id": 3,
-      "name": "OS",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/os.png"
-    },
-    {
-      "id": 4,
-      "name": "Coding",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/programming.png"
-    },
-    {
-      "id": 5,
-      "name": "Mods",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/mods.png"
-    },
-    {
-      "id": 6,
-      "name": "How To",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png"
-    },
-    {
-      "id": 7,
-      "name": "Tips & Trick",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/tips-trick.png"
-    },
-    {
-      "id": 8,
-      "name": "Lifestyle",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/lifestyle.png"
-    },
-    {
-      "id": 9,
-      "name": "Android",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/android.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Game, Tips & Trick",
-      "title": "Free Fire: Top 10 best M1014 gun skins in the game",
+      "category": "Panduan",
+      "title": "Cara Cek Pinjol",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/free-fire.jpg",
       "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/free-fire.html",
       "video": ""
