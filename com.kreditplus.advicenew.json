@@ -76,12 +76,12 @@
     {
       "id": 1,
       "name": "Panduan",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/apps.png"
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Panduan.png"
     },
     {
       "id": 2,
       "name": "Tips",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/game.png"
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Tips.png"
     }
   ],
   "posts": [
