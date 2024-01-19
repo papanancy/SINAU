@@ -54,7 +54,7 @@
       "wortise_interstitial_id": "test-interstitial",
       "wortise_native_id": "test-native",
       "wortise_app_open_id": "test-app-open",
-      "interstitial_ad_interval": 2,
+      "interstitial_ad_interval": 1,
       "native_ad_index": 1,
       "native_ad_interval": 4,
       "native_ad_style": "medium",
