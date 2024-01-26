@@ -74,19 +74,19 @@
     ],
     "categories": [
         {
-            "id": 1,
+            "id": 2,
             "name": "Panduan",
             "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Panduan.png"
         },
         {
-            "id": 2,
+            "id": 1,
             "name": "Tips",
             "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Tips.png"
         }
     ],
     "posts": [
         {
-            "id": 1,
+            "id": 3,
             "category": "Panduan",
             "title": "Cara cek Pinjol",
             "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.jpg",
@@ -102,7 +102,7 @@
             "video": ""
         },
         {
-            "id": 3,
+            "id": 1,
             "category": "Panduan",
             "title": "Cara Melakukan Pinjaman Online",
             "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENTIMAGE/Image20.jpg",
