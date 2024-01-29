@@ -1,0 +1,191 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=7bOXRPeLzfaIwIfUpf7l1HqCAOwcofze",
+      "email_feedback_and_report": "thekeongbalap@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 4,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GUIDE",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Guide.png"
+    },
+    {
+      "id": 2,
+      "name": "ADVICE",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Advice.png"
+   }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "GUIDE",
+      "title": "What is ClearScore",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear01.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/1.What%20is%20ClearScore.html",
+      "video": ""
+    },
+    {
+      "id": 2,
+      "category": "GUIDE",
+      "title": "How ClearScore works",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear02.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/2.How%20ClearScore%20works.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "GUIDE",
+      "title": "Your credit report",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear03.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/3.Your%20credit%20report.html",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "GUIDE",
+      "title": "New score bands",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear04.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/4.New%20score%20bands.html",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "GUIDE",
+      "title": "The band changes",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear05.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/5.The%20band%20changes.html",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "ADVICE",
+      "title": "What is a good ClearScore credit score",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear06.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/6.What%20is%20a%20good%20ClearScore%20credit%20score.html",
+      "video": ""
+    },
+    {
+      "id": 7,
+      "category": "ADVICE",
+      "title": "What is the highest ClearScore score",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear07.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/7.What%20is%20the%20highest%20ClearScore%20score.html",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "ADVICE",
+      "title": "How can I improve my ClearScore band",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear08.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/8.How%20can%20I%20improve%20my%20ClearScore%20band.html",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "ADVICE",
+      "title": "Confirm where you live",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear09.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/9.Confirm%20where%20you%20live.html",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "ADVICE",
+      "title": "Make payments in full and on time",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear10.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/10.Make%20payments%20in%20full%20and%20on%20time.html",
+      "video": ""
+    },
+    {
+      "id": 11,
+      "category": "ADVICE",
+      "title": "Keep your credit utilisation low",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear11.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/11.Keep%20your%20credit%20utilisation%20low.html",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Danafix",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/MOREAPPS/danafix.png",
+      "url": "https://play.google.com/store/apps/details?id=com.danafix.pinjamanclue.terbaru"
+    },
+    {
+      "id": 2,
+      "title": "Danamu",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/MOREAPPS/danamu.png",
+      "url": "https://play.google.com/store/apps/details?id=com.thekeongbalab.danamuadvice"
+    }
+  ]
+}
