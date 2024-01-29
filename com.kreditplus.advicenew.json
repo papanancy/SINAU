@@ -3,7 +3,7 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=IT3Fcr2eVcn3Y7LeLuIjalmwDjOKG3Kb",
+      "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=7bOXRPeLzfaIwIfUpf7l1HqCAOwcofze",
       "email_feedback_and_report": "thekeongbalap@gmail.com",
       "webview_cache": true,
       "post_list_in_large_style": false,
@@ -88,185 +88,89 @@
     {
       "id": 1,
       "category": "GUIDE",
-      "title": "What Are Fast Personal Loans",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image01.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/1.What%20Are%20Fast%20Personal%20Loans.html",
+      "title": "What is ClearScore",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear01.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/1.What%20is%20ClearScore.html",
       "video": ""
     },
     {
       "id": 2,
       "category": "GUIDE",
-      "title": "The Best Fast Personal Loans",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image02.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/2.The%20Best%20Fast%20Personal%20Loans.html",
+      "title": "How ClearScore works",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear02.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/2.How%20ClearScore%20works.html",
       "video": ""
     },
     {
       "id": 3,
       "category": "GUIDE",
-      "title": "Lightsteam",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/LightStream.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/3.Lightsteam.html",
+      "title": "Your credit report",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear03.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/3.Your%20credit%20report.html",
       "video": ""
     },
     {
       "id": 4,
       "category": "GUIDE",
-      "title": "SOFI",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/SoFi.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/4.SOFI.html",
+      "title": "New score bands",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear04.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/4.New%20score%20bands.html",
       "video": ""
     },
     {
       "id": 5,
       "category": "GUIDE",
-      "title": "Penfed Credit Union",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/PenFed.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/5.Penfed%20Credit%20Union.html",
+      "title": "The band changes",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear05.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/5.The%20band%20changes.html",
       "video": ""
     },
     {
       "id": 6,
-      "category": "GUIDE",
-      "title": "DISCOVER",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Discover.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/6.DISCOVER.html",
+      "category": "ADVICE",
+      "title": "What is a good ClearScore credit score",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear06.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/6.What%20is%20a%20good%20ClearScore%20credit%20score.html",
       "video": ""
     },
     {
       "id": 7,
-      "category": "GUIDE",
-      "title": "UPSTART",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Upstart.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/7.UPSTART.html",
+      "category": "ADVICE",
+      "title": "What is the highest ClearScore score",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear07.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/7.What%20is%20the%20highest%20ClearScore%20score.html",
       "video": ""
     },
     {
       "id": 8,
-      "category": "GUIDE",
-      "title": "US BANK",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/USBank.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/8.US%20BANK.html",
+      "category": "ADVICE",
+      "title": "How can I improve my ClearScore band",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear08.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/8.How%20can%20I%20improve%20my%20ClearScore%20band.html",
       "video": ""
     },
     {
       "id": 9,
-      "category": "GUIDE",
-      "title": "UPGRADE",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Upgrade.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/9.UPGRADE.html",
+      "category": "ADVICE",
+      "title": "Confirm where you live",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear09.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/9.Confirm%20where%20you%20live.html",
       "video": ""
     },
     {
       "id": 10,
-      "category": "GUIDE",
-      "title": "Wells Fargo",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/WellsFargo.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/10.Wells%20Fargo.html",
+      "category": "ADVICE",
+      "title": "Make payments in full and on time",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear10.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/10.Make%20payments%20in%20full%20and%20on%20time.html",
       "video": ""
     },
     {
       "id": 11,
       "category": "ADVICE",
-      "title": "BEST EGG",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/BESTEGG.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/11.BEST%20EGG.html",
-      "video": ""
-    },
-    {
-      "id": 12,
-      "category": "ADVICE",
-      "title": "LENDING POINT",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/LENDINGPOINT.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/12.LENDING%20POINT.html",
-      "video": ""
-    },
-    {
-      "id": 13,
-      "category": "ADVICE",
-      "title": "ROCKET LOANS",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/ROCKET.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/13.ROCKET%20LOANS.html",
-      "video": ""
-    },
-    {
-      "id": 14,
-      "category": "ADVICE",
-      "title": "UNIVERSAL CREDIT",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/UNIVERSALCREDIT.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/14.UNIVERSAL%20CREDIT.html",
-      "video": ""
-    },
-    {
-      "id": 15,
-      "category": "ADVICE",
-      "title": "When Should You Consider a Personal Loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image03.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/15.When%20Should%20You%20Consider%20a%20Personal%20Loan.html",
-      "video": ""
-    },
-    {
-      "id": 16,
-      "category": "ADVICE",
-      "title": "Pros and Cons of Fast Personal Loans",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image04.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/16.Pros%20and%20Cons%20of%20Fast%20Personal%20Loans.html",
-      "video": ""
-    },
-    {
-      "id": 17,
-      "category": "ADVICE",
-      "title": "Obtaining a Fast Personal Loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image05.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/17.Obtaining%20a%20Fast%20Personal%20Loan.html",
-      "video": ""
-    },
-    {
-      "id": 18,
-      "category": "ADVICE",
-      "title": "What is a personal loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image06.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/18.What%20is%20a%20personal%20loan.html",
-      "video": ""
-    },
-    {
-      "id": 19,
-      "category": "ADVICE",
-      "title": "Where to get a fast loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image07.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/19.Where%20to%20get%20a%20fast%20loan.html",
-      "video": ""
-    },
-    {
-      "id": 20,
-      "category": "ADVICE",
-      "title": "How to get a personal loan fast",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image08.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/20.How%20to%20get%20a%20personal%20loan%20fast.html",
-      "video": ""
-    },
-    {
-      "id": 21,
-      "category": "ADVICE",
-      "title": "Fast loans for bad credit",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image09.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/21.Fast%20loans%20for%20bad%20credit.html",
-      "video": ""
-    },
-	{
-      "id": 22,
-      "category": "ADVICE",
-      "title": "How to get fast cash without a loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/image12.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/22.How%20to%20get%20fast%20cash%20without%20a%20loan.html",
-      "video": ""
-    },
-	{
-      "id": 23,
-      "category": "ADVICE",
-      "title": "Fast loans to avoid",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image11.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/23.Fast%20loans%20to%20avoid.html",
+      "title": "Keep your credit utilisation low",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/clear11.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/clearscorehtml/11.Keep%20your%20credit%20utilisation%20low.html",
       "video": ""
     }
   ],
