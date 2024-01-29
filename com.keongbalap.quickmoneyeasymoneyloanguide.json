@@ -1,0 +1,287 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=z2lk3ytFm8PyMRJ4Vt8tjHGVMn5zVDtG",
+      "email_feedback_and_report": "thekeongbalap@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 4,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GUIDE",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Guide.png"
+    },
+    {
+      "id": 2,
+      "name": "ADVICE",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Advice.png"
+   }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "GUIDE",
+      "title": "What Are Fast Personal Loans",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image01.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/1.What%20Are%20Fast%20Personal%20Loans.html",
+      "video": ""
+    },
+    {
+      "id": 2,
+      "category": "GUIDE",
+      "title": "The Best Fast Personal Loans",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image02",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/2.The%20Best%20Fast%20Personal%20Loans.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "GUIDE",
+      "title": "Lightsteam",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/LightStream.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/3.Lightsteam.html",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "GUIDE",
+      "title": "SOFI",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/SoFi.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/4.SOFI.html",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "GUIDE",
+      "title": "Penfed Credit Union",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/PenFed.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/5.Penfed%20Credit%20Union.html",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "GUIDE",
+      "title": "DISCOVER",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Discover.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/6.DISCOVER.html",
+      "video": ""
+    },
+    {
+      "id": 7,
+      "category": "GUIDE",
+      "title": "UPSTART",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Upstart.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/7.UPSTART.html",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "GUIDE",
+      "title": "US BANK",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/USBank.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/8.US%20BANK.html",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "GUIDE",
+      "title": "UPGRADE",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Upgrade.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/9.UPGRADE.html",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "GUIDE",
+      "title": "Wells Fargo",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/WellsFargo.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/10.Wells%20Fargo.html",
+      "video": ""
+    },
+    {
+      "id": 11,
+      "category": "ADVICE",
+      "title": "BEST EGG",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/BESTEGG.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/11.BEST%20EGG.html",
+      "video": ""
+    },
+    {
+      "id": 12,
+      "category": "ADVICE",
+      "title": "LENDING POINT",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/LENDINGPOINT.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/12.LENDING%20POINT.html",
+      "video": ""
+    },
+    {
+      "id": 13,
+      "category": "ADVICE",
+      "title": "ROCKET LOANS",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/ROCKET.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/13.ROCKET%20LOANS.html",
+      "video": ""
+    },
+    {
+      "id": 14,
+      "category": "ADVICE",
+      "title": "UNIVERSAL CREDIT",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/UNIVERSALCREDIT.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/14.UNIVERSAL%20CREDIT.html",
+      "video": ""
+    },
+    {
+      "id": 15,
+      "category": "ADVICE",
+      "title": "When Should You Consider a Personal Loan",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image03",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/15.When%20Should%20You%20Consider%20a%20Personal%20Loan.html",
+      "video": ""
+    },
+    {
+      "id": 16,
+      "category": "ADVICE",
+      "title": "Pros and Cons of Fast Personal Loans",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image04",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/16.Pros%20and%20Cons%20of%20Fast%20Personal%20Loans.html",
+      "video": ""
+    },
+    {
+      "id": 17,
+      "category": "ADVICE",
+      "title": "Obtaining a Fast Personal Loan",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image05",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/17.Obtaining%20a%20Fast%20Personal%20Loan.html",
+      "video": ""
+    },
+    {
+      "id": 18,
+      "category": "ADVICE",
+      "title": "What is a personal loan",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image06",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/18.What%20is%20a%20personal%20loan.html",
+      "video": ""
+    },
+    {
+      "id": 19,
+      "category": "ADVICE",
+      "title": "Where to get a fast loan",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image07",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/19.Where%20to%20get%20a%20fast%20loan.html",
+      "video": ""
+    },
+    {
+      "id": 20,
+      "category": "ADVICE",
+      "title": "How to get a personal loan fast",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image08",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/20.How%20to%20get%20a%20personal%20loan%20fast.html",
+      "video": ""
+    },
+    {
+      "id": 21,
+      "category": "ADVICE",
+      "title": "Fast loans for bad credit",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image09",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/21.Fast%20loans%20for%20bad%20credit.html",
+      "video": ""
+    },
+	{
+      "id": 22,
+      "category": "ADVICE",
+      "title": "How to get fast cash without a loan",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/image10",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/22.How%20to%20get%20fast%20cash%20without%20a%20loan.html",
+      "video": ""
+    },
+	{
+      "id": 23,
+      "category": "ADVICE",
+      "title": "Fast loans to avoid",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image11",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/23.Fast%20loans%20to%20avoid.html",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Danafix",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/MOREAPPS/danafix.png",
+      "url": "https://play.google.com/store/apps/details?id=com.danafix.pinjamanclue.terbaru"
+    },
+    {
+      "id": 2,
+      "title": "Danamu",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/MOREAPPS/danamu.png",
+      "url": "https://play.google.com/store/apps/details?id=com.thekeongbalab.danamuadvice"
+    }
+  ]
+}
