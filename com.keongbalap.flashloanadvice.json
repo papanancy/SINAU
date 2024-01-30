@@ -89,16 +89,20 @@
       "id": 1,
       "category": "GUIDE",
       "title": "What are Flash Loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image01.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/1.What%20Are%20Fast%20Personal%20Loans.html",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20.jpg",
+      "content": "<p>A flash loan is a type of uncollateralized loan that lets a user borrow assets with no upfront collateral as long as the borrowed assets are paid back within the same blockchain transaction.</p>
+<p>The&nbsp;decentralized finance (DeFi)&nbsp;ecosystem started out by recreating traditional financial services, such as lending and borrowing, exchanges, futures and options markets, for blockchains. As the ecosystem developed, fundamentally new services were created that are only possible thanks to the inherent properties of blockchain technology and the&nbsp;permissionless composability&nbsp;enabled by smart contract applications.</p>
+<p>Like the concept of&nbsp;yield farming, flash loans are an exciting new financial primitive. Flash loans enable users to borrow assets from an on-chain liquidity pool with no upfront collateral as long as the borrowed amount of liquidity, plus a small fee, is returned to the pool within the same transaction. If the borrower does not pay back the loan in the same transaction, then the entire transaction is reverted, including the initial borrow and any actions taken afterward. This innovative mechanism increases access to capital for users across a variety of use cases while ensuring the continued solvency of the underlying on-chain liquidity pool.</p>
+<p>In this article, we outline how flash loans work, what they are used for, and what DeFi protocols can do to mitigate the potential attack vectors created by this new financial primitive.</p>",
       "video": ""
     },
     {
       "id": 2,
       "category": "GUIDE",
-      "title": "The Best Fast Personal Loans",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image02",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/2.The%20Best%20Fast%20Personal%20Loans.html",
+      "title": "How Do Flash Loans Work?",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20",
+      "content": "<p>In the case of collateralized lending, borrowers need to put up capital (collateral) to borrow funds. If the borrower fails to meet the terms of the loan, the lender can still cover the loan using the borrower&rsquo;s collateral. Flash loans don&rsquo;t have this requirement; the loan can only exist if the borrower pays it back within the same transaction. As a result, defaulting on a flash loan is not possible, since the entire transaction would simply revert.</p>
+<p>For a short period of time&mdash;the span of a single transaction&mdash;a flash loan can turn anyone into a very well-capitalized actor. The hundreds of millions of dollars of liquidity provided by flash loans creates unique opportunities for arbitrage, liquidations, collateral swapping, and the creation of leveraged positions. It also creates certain risks, especially for a nascent ecosystem of financial protocols with varying degrees of decentralization and security. These risks should be understood by smart contract developers so more robust applications can be built for users.</p>",
       "video": ""
     },
     {
@@ -201,7 +205,7 @@
       "id": 15,
       "category": "ADVICE",
       "title": "When Should You Consider a Personal Loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image03",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/15.When%20Should%20You%20Consider%20a%20Personal%20Loan.html",
       "video": ""
     },
@@ -209,7 +213,7 @@
       "id": 16,
       "category": "ADVICE",
       "title": "Pros and Cons of Fast Personal Loans",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image04",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/16.Pros%20and%20Cons%20of%20Fast%20Personal%20Loans.html",
       "video": ""
     },
@@ -217,7 +221,7 @@
       "id": 17,
       "category": "ADVICE",
       "title": "Obtaining a Fast Personal Loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image05",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/17.Obtaining%20a%20Fast%20Personal%20Loan.html",
       "video": ""
     },
@@ -225,7 +229,7 @@
       "id": 18,
       "category": "ADVICE",
       "title": "What is a personal loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image06",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/18.What%20is%20a%20personal%20loan.html",
       "video": ""
     },
@@ -233,7 +237,7 @@
       "id": 19,
       "category": "ADVICE",
       "title": "Where to get a fast loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image07",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/19.Where%20to%20get%20a%20fast%20loan.html",
       "video": ""
     },
@@ -241,7 +245,7 @@
       "id": 20,
       "category": "ADVICE",
       "title": "How to get a personal loan fast",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image08",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/20.How%20to%20get%20a%20personal%20loan%20fast.html",
       "video": ""
     },
@@ -249,7 +253,7 @@
       "id": 21,
       "category": "ADVICE",
       "title": "Fast loans for bad credit",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image09",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/21.Fast%20loans%20for%20bad%20credit.html",
       "video": ""
     },
@@ -257,7 +261,7 @@
       "id": 22,
       "category": "ADVICE",
       "title": "How to get fast cash without a loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/image10",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/22.How%20to%20get%20fast%20cash%20without%20a%20loan.html",
       "video": ""
     },
@@ -265,7 +269,7 @@
       "id": 23,
       "category": "ADVICE",
       "title": "Fast loans to avoid",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image11",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20",
       "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/23.Fast%20loans%20to%20avoid.html",
       "video": ""
     }
