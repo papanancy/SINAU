@@ -1,0 +1,341 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=NsI0aizh0zr2jXvsRbyZd8VxJ7JuqW9e",
+      "email_feedback_and_report": "thekeongbalap@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 4,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "GUIDE",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Guide.png"
+    },
+    {
+      "id": 2,
+      "name": "ADVICE",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Advice.png"
+   }
+  ],
+  "posts": [
+    "id": 1,
+      "category": "GUIDE",
+      "title": "What are Instan Loan",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image25.jpg",
+      "content": "<p>An instant loan is a short-term loan that's processed quickly and doesn't require collateral or extensive paperwork. Benefits include zero collateral, paperless and hassle-free processing, instant disbursal, flexible amounts and tenures, and quicker processing.</p>
+<p>To get an instant loan, check if you meet the lender's eligibility criteria and keep in mind that interest rates vary.</p>",
+      "video": ""
+    },
+    {
+      "id": 2,
+      "category": "GUIDE",
+      "title": "How do Instant Loans Work?",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image25",
+      "content": "<div id="how-do-instant-loans-work">
+<p>Instant loans work by providing borrowers with quick access to a small amount of money for a short period, typically until their next paycheck.</p>
+<p>Here's how they work in short:</p>
+<ol role="list">
+<li>Application: Borrowers apply online or at a physical location, providing personal and financial information.</li>
+<li>Approval: Lenders assess the application quickly, often within minutes, using basic criteria like income and credit history.</li>
+<li>Funds Disbursement: If approved, the lender disburses the loan amount directly to the borrower's bank account, usually within the same day.</li>
+<li>Repayment: Borrowers are typically required to repay the loan, including fees and interest, on their next payday or within a short period, often two weeks.</li>
+<li>Fees and Interest: Instant loans come with high fees and interest rates, making them expensive borrowing options.</li>
+<li>Automatic Withdrawals: Some lenders may require access to the borrower's bank account for automatic repayment on the due date.</li>
+</ol>
+</div>
+<div id="why-should-you-even-consider-an-instant-loan">
+<h2>Why Should You Even Consider an Instant Loan?</h2>
+<p>Unlike traditional personal banking, an instant loan offers multiple benefits. Some of these include:</p>
+<ul role="list">
+<li><strong>Zero Collateral:</strong>&nbsp;All instant loans are unsecured, meaning you do not need to put up or submit any security for the amount to be approved.</li>
+<li><strong>Paperless &amp; Hassle-Free:</strong>&nbsp;If you apply online, the entire submission and approval process is digital and does not require you to hold on to a mountain of documents.&nbsp;<a href="https://fi.money/blog/posts/here-is-the-list-of-documents-required-for-personal-loan" target="_blank" rel="noopener">Here</a>&nbsp;is a short list of documents that you'll require for an instant loan.</li>
+<li><strong>Instant Disbursal:</strong>&nbsp;As the name suggests, these loans are disbursed into your account immediately without any particular restrictions on how you use them.</li>
+<li><strong>Flexible Amounts &amp; Tenures:</strong>&nbsp;In almost all cases, these loans have variable minimum and maximum amounts alongside convenient repayment tenures. Choose one as you see fit.</li>
+<li><strong>Quicker Processing:</strong>&nbsp;Compared to regular personal loans, these are processed much faster.</li>
+</ul>
+</div>
+<div id="how-to-get-an-instant-loan">
+<h2>How to Get an Instant Loan?</h2>
+<p>While the specifics differ based on the lender, the general process of how to get instant loan is quite simple. You only need to visit the official website of the bank or the financial institution to check if you meet their eligibility criteria.</p>
+<p>There are a few things you need to keep in mind here, including the following:</p>
+<ul role="list">
+<li>Financial entities and banks usually charge a one-time processing fee for approving these loans.</li>
+<li>Interest rates vary based on the lender, and so do the default penalties. Carefully examine both if you want the best deal.</li>
+<li>Consider the flexibility in repayment tenures. The best options let you make pre- or part-payments towards the principal amount.</li>
+</ul>
+<p>Apart from that, a good credit score is always helpful in keeping interest rates low. Prospective borrowers may also need to fall within a specific age range, depending on whether they are self-employed or salaried employees.</p>
+<p>Remember, there are many lender-specific factors in play too.</p>
+</div>
+<div id="where-can-you-get-an-instant-loan">
+<h2>Where Can You Get an Instant Loan?</h2>
+<p>With all the available options, deciding which financial institution is your best bet when opting for an instant loan can be challenging. That&rsquo;s where&nbsp;<a href="https://fi.money/?utm_source=google_Fi_Brand_money&amp;utm_medium=google_web&amp;utm_campaign=Fi_Brand_money&amp;utm_adgroup=fi_money_Exact&amp;utm_term=fi.money&amp;utm_network=g&amp;utm_matchtype=e&amp;utm_device=c&amp;utm_placement=&amp;utm_content=610701986537&amp;utm_Adposition=&amp;utm_location=1007788&amp;utm_Sitelink=&amp;utm_Audience=kwd-1275065023383&amp;gclid=Cj0KCQiA54KfBhCKARIsAJzSrdr7TFHmt1f7nDkpyauc9YNet_b6pZOKt9MbSODi6VXoo4_mclgPMzEaAvIGEALw_wcB">Fi Money</a>&nbsp;steps in.</p>
+</div>
+<div id="get-an-instant-personal-loan-in-minutes">
+<h2>Get an Instant Personal Loan in Minutes</h2>
+<p><a Money</a>&nbsp;provides instant loans that arrive directly in your savings account. These are pre-approved personal loans made available to select users with good credit scores. On Fi, this process is 100% paperless, and the loans are provided at competitive interest rates &mdash; where each user remains in control with complete visibility of all details.</p>
+<p>Plus, you can avoid EMI late fees by setting up automatic in-app payments. Our licensed partner bank assigns an eligible loan amount to each user (up to ₹5 lakh).</p>
+</div>
+<div id="frequently-asked-questions">
+<h2>Frequently Asked Questions</h2>
+<div id="1-which-banks-provide-instant-loans">
+<h3>1. Which banks provide instant loans?</h3>
+<p>In addition to Fi Money, almost all National and State-level banks offer instant loans. However, the interest at these institutions may be relatively high compared to Fi Money's rates.</p>
+</div>
+<div id="2-how-long-does-it-take-to-process-an-instant-loan">
+<h3>2. How long does it take to process an instant loan?</h3>
+<p>Most instant loans are processed, approved and disbursed in under 10 minutes. With Fi Money, you can expect the loan to reflect in your account in under 5 minutes or less.</p>
+</div>
+</div>",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "GUIDE",
+      "title": "Lightsteam",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/LightStream.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/3.Lightsteam.html",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "GUIDE",
+      "title": "SOFI",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/SoFi.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/4.SOFI.html",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "GUIDE",
+      "title": "Penfed Credit Union",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/PenFed.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/5.Penfed%20Credit%20Union.html",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "GUIDE",
+      "title": "DISCOVER",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Discover.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/6.DISCOVER.html",
+      "video": ""
+    },
+    {
+      "id": 7,
+      "category": "GUIDE",
+      "title": "UPSTART",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Upstart.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/7.UPSTART.html",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "GUIDE",
+      "title": "US BANK",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/USBank.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/8.US%20BANK.html",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "GUIDE",
+      "title": "UPGRADE",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Upgrade.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/9.UPGRADE.html",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "GUIDE",
+      "title": "Wells Fargo",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/WellsFargo.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/10.Wells%20Fargo.html",
+      "video": ""
+    },
+    {
+      "id": 11,
+      "category": "ADVICE",
+      "title": "BEST EGG",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/BESTEGG.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/11.BEST%20EGG.html",
+      "video": ""
+    },
+    {
+      "id": 12,
+      "category": "ADVICE",
+      "title": "LENDING POINT",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/LENDINGPOINT.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/12.LENDING%20POINT.html",
+      "video": ""
+    },
+    {
+      "id": 13,
+      "category": "ADVICE",
+      "title": "ROCKET LOANS",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/ROCKET.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/13.ROCKET%20LOANS.html",
+      "video": ""
+    },
+    {
+      "id": 14,
+      "category": "ADVICE",
+      "title": "UNIVERSAL CREDIT",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/UNIVERSALCREDIT.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/14.UNIVERSAL%20CREDIT.html",
+      "video": ""
+    },
+    {
+      "id": 15,
+      "category": "ADVICE",
+      "title": "When Should You Consider a Personal Loan",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image25",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/15.When%20Should%20You%20Consider%20a%20Personal%20Loan.html",
+      "video": ""
+    },
+    {
+      "id": 16,
+      "category": "ADVICE",
+      "title": "Pros and Cons of Fast Personal Loans",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image25",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/16.Pros%20and%20Cons%20of%20Fast%20Personal%20Loans.html",
+      "video": ""
+    },
+    {
+      "id": 17,
+      "category": "ADVICE",
+      "title": "Obtaining a Fast Personal Loan",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image25",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/17.Obtaining%20a%20Fast%20Personal%20Loan.html",
+      "video": ""
+    },
+    {
+      "id": 18,
+      "category": "ADVICE",
+      "title": "What is a personal loan",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image25",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/18.What%20is%20a%20personal%20loan.html",
+      "video": ""
+    },
+    {
+      "id": 19,
+      "category": "ADVICE",
+      "title": "Where to get a fast loan",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image25",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/19.Where%20to%20get%20a%20fast%20loan.html",
+      "video": ""
+    },
+    {
+      "id": 20,
+      "category": "ADVICE",
+      "title": "How to get a personal loan fast",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image25",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/20.How%20to%20get%20a%20personal%20loan%20fast.html",
+      "video": ""
+    },
+    {
+      "id": 21,
+      "category": "ADVICE",
+      "title": "Fast loans for bad credit",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image25",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/21.Fast%20loans%20for%20bad%20credit.html",
+      "video": ""
+    },
+	{
+      "id": 22,
+      "category": "ADVICE",
+      "title": "How to get fast cash without a loan",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image25",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/22.How%20to%20get%20fast%20cash%20without%20a%20loan.html",
+      "video": ""
+    },
+	{
+      "id": 23,
+      "category": "ADVICE",
+      "title": "Fast loans to avoid",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image25",
+      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/23.Fast%20loans%20to%20avoid.html",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Danafix",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/MOREAPPS/danafix.png",
+      "url": "https://play.google.com/store/apps/details?id=com.danafix.pinjamanclue.terbaru"
+    },
+    {
+      "id": 2,
+      "title": "Danamu",
+      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/MOREAPPS/danamu.png",
+      "url": "https://play.google.com/store/apps/details?id=com.thekeongbalab.danamuadvice"
+    }
+  ]
+}
