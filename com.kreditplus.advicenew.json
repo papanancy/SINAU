@@ -75,13 +75,13 @@
   "categories": [
     {
       "id": 1,
-      "name": "GUIDE",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Guide.png"
+      "name": "Tips",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CATEGORY/Tips.png"
     },
     {
       "id": 2,
-      "name": "ADVICE",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/IMAGECATEGORY/Advice.png"
+      "name": "Trick",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/CATEGORY/Trick.png"
    }
   ],
   "posts": [
