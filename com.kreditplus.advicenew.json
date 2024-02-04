@@ -3,10 +3,10 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=0JtW57oDI68Nsqn5Q3Jv1y7JFXwtsJYF",
-      "email_feedback_and_report": "thekeongbalap@gmail.com",
+      "privacy_policy_url": "",
+      "email_feedback_and_report": "mediajackpot2023@gmail.com",
       "webview_cache": true,
-      "post_list_in_large_style": false,
+      "post_list_in_large_style": true,
       "show_post_list_header": true,
       "show_post_detail_image": true,
       "show_post_detail_title": true,
@@ -32,9 +32,9 @@
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
       "ad_manager_app_open_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "fan_banner_unit_id": "",
+      "fan_interstitial_unit_id": "",
+      "fan_native_unit_id": "",
       "startapp_app_id": "0",
       "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
@@ -56,7 +56,7 @@
       "wortise_app_open_id": "test-app-open",
       "interstitial_ad_interval": 1,
       "native_ad_index": 1,
-      "native_ad_interval": 2,
+      "native_ad_interval": 4,
       "native_ad_style": "medium",
       "native_ad_post_details_position": "top",
       "show_banner_ad_home": true,
@@ -87,203 +87,878 @@
   "posts": [
     {
       "id": 1,
-      "category": "GUIDE",
-      "title": "What are Flash Loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image20.jpg",
-      "content": "FGDFGDFGDFGDFdfgdcfdfdfsdfsdf sfsdfsdvfsdfsdj jdjnfjsdnvcm d kmfksdmkmk gidjf  kmfskfmkdmfidjgkdfmlvkdfmnkldsnglksdfmkldsmvjfdnvbngoisjglskdjgnkldnkdlnvfjnvruvjgbnldbnmkdlf fvmfkmbvfkmbimbvkfmvldmflvmfdlvmlfmbkgtbmkdfmbkfdmbkmdflvmdlf,vldf,vl lfmvlfmlv flmvfkmvkfmvfkmbi ijtibigbmkgmbkgmbkgmbotikbkfmbk mgbkgbmkgbmkgmbkgmbkgbm 
-enter.vb,vb.v,bglkblklkfgdjgid dfjndfjgndjfngjdfngjdfngjdfngjdfngurngdjkfnlsdfmksdlfmdlskfmdkgvnfjnbfjbnjfnbjfb",
+      "category": "Tips",
+      "title": "TIPS MEMINJAM DI DUITKILAT",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img01.jpg",
+      "content": "Begitu banyak hal-hal yang ”dibunuh” oleh teknologi, hal-hal ini tergantikan dan terbarukan semata-mata untuk kemudahan dan membuat segalanya menjadi lebih efisien. Contohnya, dulu jika ingin makan sesuatu kita harus datang sendiri ke restoran atau tempat makan tersebut. Tapi sekarang hanya perlu scroll dan beberapa klik di handphone, selanjutnya kita tinggal tunggu duduk manis saja di rumah dan makanan akan datang. Sekarang, kita juga gak perlu repot-repot mengeluarkan uang tunai dan menunggu kurir mencari-cari uang kembalian karena bayarnya sudah pakai dompet elektronik.
+
+Contoh lainnya, dulu kalau ingin meminjam uang kita harus ke bank yang prosesnya sangat panjang dan kita harus datang sendiri ke bank tersebut. Kalau pinjam uang ke teman atau saudara harus tahan malu dan belum tentu dikasih juga. Dengan perkembangan teknologi yang super cepat, sekarang Sobat Sikapi bisa meminjam uang dengan sistem daring (online) atau Fintech Peer to Peer (P2P) Lending atau Fintech Lending. Persayaratan yang harus dipenuhi sangat mudah dan uang bisa cair dengan cepat.
+
+Layanan pinjaman daring (pindar) ini dimaksudkan untuk mengisi kesenjangan kebutuhan pembiayaan di Indonesia dan membuka akses bagi mereka yang tidak memiliki akses terhadap layanan perbankan atau lembaga pendanaan lainnya. Bagai dua sisi mata uang, di satu sisi fintech lending ini dibuat untuk memudahkan konsumen dalam pendanaan untuk memenuhi kebutuhannya atau mengembangkan usahanya.Disisi lainnya, semakin mudahnya mendapat pinjaman dana, terkadang kita terlena untuk sering meminjam tanpa memperhitungkan kemampuan kita dalam melunasi pinjaman tersebut dan lebih berbahaya lagi terkadang pinjaman tersebut dilakukan hanya untuk memenuhi kebutuhan konsumtif.
+
+Agar tidak menyesal dan kehilangan banyak hal kedepannya perhatikan beberapa poin berikut sebelum melakukan pinjaman dengan sistem online:
+
+1.   Pertama, pinjam di perusahaan terdaftar/berizin di OJK.
+
+Sampai saat ini ada ratusan fintech lending yang menawarkan pinjaman dana mudah dan cepat, namun kenyataannya hingga April 2019 baru ada 106 perusahaan fintech lending yang terdaftar/berizin di OJK. Pastikan Sobat hanya melakukan pinjaman di perusahaan yang telah terdaftar/berizin di OJK karena dengan begitu proses bisnis dan produk kredit fintech tersebut telah diverifikasi dan mendapatkan pengawasan dari OJK. Cek legalitas perusahaan pemberi pinjaman melalui telepon Kontak OJK 157 atau di website OJK (www.ojk.go.id).
+
+2.   Kedua, pinjam sesuai kebutuhan dan kemampuan.
+
+Dengan kemudahan yang diberikan dalam mendapatkan dana pinjaman, jangan sampai Sobat terlena dan meminjam lebih dari yang dibutuhkan. Hitungannya, total pinjaman yang diperbolehkan adalah maksimal 30% dari total penghasilan. Jangan pinjam untuk kebutuhan konsumtif agar tidak memberatkan dan jangan lupa pertimbangkan cicilan lain yang harus dibayarkan. Jangan sampai Sobat malah kesulitan melunasi tagihan-tagihan yang ada, ya!
+
+3.   Ketiga, lunasi cicilan tepat waktu.
+
+Selalu lunasi cicilan tepat waktu untuk menghindari denda yang membengkak. Agar tidak lupa membayar, pasang pengingat di ponsel atau beri tanda pada kalender di rumah atau di kantor. Gak enak kan kalau terlalu lama dibayang-bayangi utang? Untuk itu kelola uang dengan bijak dan sesuaikan pinjaman dengan kemampuan.
+
+4.   Keempat, hindari gali lubang tutup lubang.
+
+Ini sih bahaya banget ya, jangan membayar pinjaman dengan pinjaman baru untuk menghindari terlilit utang. Cara seperti ini bukannya membuat tagihan cepat lunas namun justru menambah banyak tagihan yang bisa jadi makin sulit kita lunasi. Jadikan membayar cicilan sebagai prioritas utama setelah menerima gaji.
+
+5.   Kelima, ketahui bunga dan denda pinjaman sebelum meminjam.
+
+Gak sedikit lho yang mengabaikan hal ini dengan alasan “butuh cepat”, padahal bunga dan denda ini akan mempengaruhi jumlah tagihan yang harus dibayarkan. Pelajari terlebih dahulu bunga dan denda yang ditawarkan, lakukan survei ke beberapa perusahaan fintech lending sebagai pembanding sebelum melakukan pinjaman.
+
+6.   Keenam, pahami kontrak perjanjian.
+
+Baca dengan teliti kontrak perjanjian yang ditawarkan, dan ajukan pertanyaan apabila belum jelas. Jika kita melakukan suatu hal yang melanggar ketentuan, akibatnya adalah sanksi yang menghampiri. Artinya, jika tidak ingin kena masalah jangan sekali-kali melanggar aturan yang ada ya, Sobat!
+
+Jika Sobat Sikapi tidak ingin kehilangan lebih banyak uang dan kehilangan orang-orang terdekat, lebih bijak dan cerdaslah dalam mengelola uang dan melakukan pinjaman dari fintech lending, ya!",
       "video": ""
     },
     {
       "id": 2,
-      "category": "GUIDE",
-      "title": "How Do Flash Loans Work?",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image21",
-      "content": "<p>In the case of collateralized lending, borrowers need to put up capital (collateral) to borrow funds. If the borrower fails to meet the terms of the loan, the lender can still cover the loan using the borrower&rsquo;s collateral. Flash loans don&rsquo;t have this requirement; the loan can only exist if the borrower pays it back within the same transaction. As a result, defaulting on a flash loan is not possible, since the entire transaction would simply revert.</p>
-<p>For a short period of time&mdash;the span of a single transaction&mdash;a flash loan can turn anyone into a very well-capitalized actor. The hundreds of millions of dollars of liquidity provided by flash loans creates unique opportunities for arbitrage, liquidations, collateral swapping, and the creation of leveraged positions. It also creates certain risks, especially for a nascent ecosystem of financial protocols with varying degrees of decentralization and security. These risks should be understood by smart contract developers so more robust applications can be built for users.</p>",
+      "category": "Tips",
+      "title": "Tips Pinjaman Online OJK Limit Besar yang Aman dan Nyaman",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img02.jpg",
+      "content": "Apa kalian sedang ingin mengajukan pinjaman dengan jumlah yang besar? Eh, tapi, pas kalian cari, enggak ada yang legal nih! Terus sebaiknya gimana ya? Nah, kalian enggak usah khawatir! Keamanan memang hal yang terpenting sebelum mengajukan pinjaman, tentunya kalian gak mau dong kena tipu atau data kalian disalahgunakan?
+
+Nah, kali ini kita bakal bagiin tips gimana caranya dapat pinjol yang aman dan legal dengan limit besar! Yuk, ikuti 4 tips ini!
+
+Tips Mendapatkan Pinjaman Online OJK Limit Besar dan Aman
+1. Pastikan sudah terdaftar di OJK
+Pinjaman bank online bukan hal yang langka di zaman sekarang ini. Selain karena prosesnya yang lebih cepat dibandingkan bank konvensional, pinjaman ini juga lebih mudah diakses. Akan tetapi, karena banyaknya itulah, muncul orang-orang nakal yang memanfaatkan keadaan ini dan melakukan tindak penipuan dan sebagainya.
+
+Tentunya, kalian ingin terhindar dari kegiatan penipuan, scam, dan penyalahgunaan data yang marak dong. Nah, untuk menghindari hal-hal tersebut, maka kalian harus mencari lembaga yang aman dan terpercaya.
+
+Oke, gimana tuh caranya? Hal yang paling pertama yang harus kalian lakukan adalah mengecek apakah lembaga tersebut sudah terdaftar di OJK atau tidak. Kalian bisa melihat situs OJK.
+
+2. Pastikan Tidak Punya Tunggakan
+Setelah mengetahui apakah bank yang kalian tuju itu aman, yang sekarang ingin kalian pastikan adalah mendapat pinjaman dengan limit yang besar. Bagaimana caranya? Kalian harus memastikan bahwa kalian tidak punya kewajiban utang di tempat lain. 
+
+Meski kalian menemukan bank yang menawarkan limit pinjaman besar, tentunya, ketika kalian punya utang di tempat lain, bank akan khawatir apa kalian bisa membayar utang atau tidak. Apakah pembayaran kalian akan lancar jika memiliki utang lebih dari satu tempat? Oleh karena itu, hal ini akan mempengaruhi limit pinjaman yang bisa kalian dapat.
+
+Jadi, pastikan untuk menyelesaikan kewajiban kalian terlebih dahulu ya, bila kalian punya!
+
+3. Pendapatan
+Pendapatan juga merupakan salah satu faktor penentu jumlah dana yang bisa kalian pinjam. Setiap bank memiliki kebijakannya sendiri dalam menentukan pendapatan minimum calon nasabah dalam syarat pengajuan pinjaman. Akan tetapi, semakin tinggi pendapatan kalian, maka akan semakin tinggi pula dana yang bisa didapatkan.
+
+Misalnya, kalian memiliki gaji sebesar 5 juta per bulannya. Maka, bank tidak akan memberikan pinjaman dengan cicilan per bulannya lebih dari 5 juta. Oh ya, sekedar tips, pastikan cicilan bulanannya tidak lebih dari 30% dari pendapatan kalian perbulan!
+
+4. Skor Kredit yang Bagus
+Hal yang dilihat oleh bank selanjutnya adalah skor kredit kalian. Semakin tinggi skor yang kalian miliki, maka semakin bisa kalian dipercaya oleh bank dalam melunasi pinjaman nantinya. Namun, kebalikannya juga bisa terjadi.
+
+Kalau kalian penasaran berapa skor kredit kalian, maka kalian bisa mengeceknya di website tertentu. Misalnya, kalian bisa cek di Idepku. 
+
+Coba Ajukan Quick Credit LINE Bank Sekarang
+Sebenarnya, kalian enggak perlu jauh-jauh kok nyari pinjaman online OJK limit besar! Kalian bisa coba Quick Credit LINE Bank. Jangan khawatir soal keamanannya, karena LINE Bank sudah diawasi dan terdaftar di OJK. Kalian juga gak usah takut kalau limit-nya kecil, karena batas pinjamannya bisa sampai Rp. 300.000.000!
+
+Masih kurang? Membayar Quick Credit gak bikin boncos kok! Suku bunganya cukup rendah dari 2,5% per bulan dan kalian bisa atur tenor pinjaman hingga 36 bulan lho! Gak usah takut sama biaya admin karena bakal gratis!",
       "video": ""
     },
     {
       "id": 3,
-      "category": "GUIDE",
-      "title": "Lightsteam",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/LightStream.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/3.Lightsteam.html",
+      "category": "Tips",
+      "title": "Ikuti 7 Hal Ini agar Cepat Cair",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img03.jpg",
+      "content": "SERAYUNEWS – Ketika Anda membutuhkan dana mendesak untuk mengatasi situasi keuangan darurat, pinjaman online dapat menjadi solusi yang cepat dan efisien.
+
+Namun, agar dana dari pinjaman online Anda bisa segera cair, ada beberapa langkah yang perlu Anda pertimbangkan.
+
+Dalam artikel ini, SerayuNews.com akan memberikan panduan tentang cara agar dana pinjaman online Anda dapat segera cair.
+
+Pilih Pemberi Pinjaman Terpercaya
+Langkah pertama yang perlu Anda lakukan adalah memilih pemberi pinjaman online yang terpercaya dan memiliki reputasi baik.Pastikan pemberi pinjaman tersebut terdaftar dan diawasi oleh Otoritas Jasa Keuangan (OJK).
+
+Memilih pemberi pinjaman yang sah akan membantu memastikan proses persetujuan dan pencairan dana berjalan lancar.
+
+Lengkapi Dokumen dengan Benar
+Pemberi pinjaman online akan meminta dokumen-dokumen tertentu sebagai persyaratan pinjaman.
+
+Pastikan Anda melengkapi semua dokumen yang diminta dengan benar dan sesuai. Dokumen yang biasanya diperlukan antara lain adalah KTP, slip gaji, dan rekening bank.Cek Persyaratan dan Kelayakan
+Sebelum mengajukan pinjaman, pastikan Anda memahami persyaratan dan kelayakan yang ada dari pemberi pinjaman.
+
+Ini termasuk batasan usia, penghasilan minimum, dan persyaratan lainnya.
+
+Memastikan Anda memenuhi kriteria ini akan mempercepat proses persetujuan.Ajukan Pinjaman Secara Online
+Potret tangan seorang wanita yang sedang memegang smartphone, ilustrasi pinjol.
+Salah satu cara agar pinjaman online tanpa ditolak adalah dengan mengajukannya, foto ilustrasi. (Pixabay.com/ Pexels)
+Salah satu keunggulan pinjaman online adalah kemudahan dalam pengajuan.
+
+Anda dapat mengajukan pinjaman secara online melalui situs web atau aplikasi pemberi pinjaman.
+
+Pastikan Anda mengisi formulir aplikasi dengan benar dan lengkap. Proses ini biasanya hanya memerlukan waktu beberapa menit.
+
+Tunggu Persetujuan
+Setelah Anda mengajukan pinjaman, Anda perlu menunggu proses persetujuan dari pemberi pinjaman.Proses ini dapat memakan waktu berbeda-beda tergantung pada pemberi pinjaman.
+
+Akan tetapi, sebagian besar pemberi pinjaman online menawarkan keputusan dalam waktu singkat, bahkan dalam hitungan jam.
+
+Pilih Cara Pencairan
+Setelah pinjaman Anda sudah mereka setujui, Anda akan perlu memilih cara pencairan dana.
+
+Beberapa pemberi pinjaman menawarkan opsi transfer bank, sementara yang lain mungkin menawarkan pencairan melalui dompet digital atau rekening virtual.Periksa Rekening Anda
+Dana pinjaman Anda akan dikirim langsung ke rekening bank yang Anda tentukan.
+
+Pastikan Anda memeriksa rekening Anda secara berkala setelah pencairan, dan Anda akan melihat dana tersebut segera masuk ke rekening Anda.
+
+Dengan mengikuti langkah-langkah di atas, maka Anda dapat memastikan bahwa dana dari pinjaman online Anda akan segera cair. Semoga bermanfaat.",
       "video": ""
     },
     {
       "id": 4,
-      "category": "GUIDE",
-      "title": "SOFI",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/SoFi.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/4.SOFI.html",
+      "category": "Tips",
+      "title": "Inilah 341 Daftar Pinjol Ilegal Terbaru Januari 2024",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img04.jpg",
+      "content": "Pinjaman online atau pinjol semakin populer di Indonesia. Namun, Anda juga perlu mewaspadai adanya pinjol ilegal yang dapat menimbulkan risiko dan masalah bagi para peminjam. Berikut ulasan lengkap mengenai daftar pinjol ilegal terbaru tahun 2024 yang dapat menjadi acuan bagi Anda.
+
+ 
+
+Pengertian Pinjol Ilegal
+ 
+
+Pinjol ilegal merujuk pada lembaga atau platform pinjaman online yang beroperasi tanpa izin yang sah dari Otoritas Jasa Keuangan (OJK). Pinjol ilegal sering kali tidak mematuhi peraturan dan standar yang berlaku, dan cenderung menawarkan pinjaman dengan suku bunga dan biaya yang tidak wajar.
+
+ 
+
+Perbedaan antara pinjol legal dan ilegal sangat penting untuk dipahami. Pinjol legal memiliki izin resmi dari OJK dan terdaftar sebagai lembaga keuangan yang sah. 
+
+ 
+
+Mereka mengikuti aturan dan ketentuan yang ditetapkan oleh OJK untuk melindungi konsumen. Pinjol legal juga beroperasi dengan transparansi dan memberikan informasi yang jelas mengenai suku bunga, biaya, dan ketentuan lainnya.Mengapa Perlu Mengecek Pinjol Legal atau Ilegal?
+ 
+
+Mengecek apakah suatu pinjol legal atau ilegal menjadi langkah penting sebelum Anda memutuskan untuk mengajukan pinjaman. Menggunakan pinjol ilegal dapat menimbulkan berbagai risiko dan masalah, antara lain:
+
+ 
+
+Bunga dan biaya yang tidak wajar
+Pinjol ilegal cenderung menetapkan suku bunga dan biaya yang tidak masuk akal. Mereka mungkin memberikan penawaran yang terlalu menggiurkan, namun pada akhirnya Anda akan dikenakan biaya yang tidak terduga dan membengkak.
+
+ 
+
+Penggunaan data pribadi yang tidak aman
+Pinjol ilegal sering kali tidak memiliki sistem keamanan yang memadai untuk melindungi data pribadi Anda. Hal ini dapat menyebabkan penyalahgunaan data atau identitas yang merugikan Anda secara finansial.
+
+ 
+
+Cara Mengecek Pinjol Legal atau Ilegal
+ 
+
+Ada beberapa cara yang dapat Anda lakukan untuk memeriksa apakah suatu pinjol legal atau ilegal. Berikut daftarnya!
+
+ 
+
+Melalui Situs OJK
+Cara pertama adalah dengan mengunjungi laman resmi Otoritas Jasa Keuangan (OJK). Berikut langkah-langkah mengecek pinjol legal atau ilegal via situs OJK:
+
+ 
+
+Buka situs resmi OJK di https//www.ojk.go.id/.
+Pilih menu IKNB > Fintech.
+Klik tautan berisikan pinjol legal yang terdaftar di OJK.Melalui WhatsApp OJK
+OJK juga menyediakan layanan pengecekan legalitas pinjol melalui aplikasi WhatsApp. Berikut ini panduan lengkap mengecek pinjol ilegal melalui WA OJK:
+
+ 
+
+Simpan nomor HP OJK 081157157157.
+Buka aplikasi WhatsApp.
+Ketik nama pinjol yang ingin dicek, misalnya “pinjol.com”
+Kirim pesan.
+Tunggu hingga bot memberi jawaban terkait status pinjol tersebut di OJK.
+ 
+
+Melalui Telepon atau Email
+Selain melalui WhatsApp, Anda juga dapat melakukan pengecekan melalui telepon OJK 157 ataupun email OJK di waspadainvestasi@ojk.go.id. 
+
+ 
+
+Dengan menggunakan salah satu metode di atas, Anda dapat memperoleh informasi mengenai legalitas pinjol yang ingin Anda cek. 
+
+ 
+
+Pastikan Anda selalu memeriksa legalitas suatu pinjol sebelum memutuskan untuk menggunakan layanannya. Melakukan pengecekan tersebut dapat melindungi Anda dari risiko dan masalah yang dapat timbul akibat menggunakan pinjol ilegal.
+
+ 
+
+Baca Juga: Sejarah Uang di Dunia Hingga Perkembangannya di Indonesia
+
+ 
+
+Daftar Pinjol Ilegal Terbaru
+ 
+
+Di bawah ini, Bizhare berhasil mengumpulkan daftar pinjol ilegal terbaru per Januari 2024. Disadur situs resmi OJK, berikut daftar lengkapnya!
+
+ 
+
+Easy Dana-Pinjaman Tunai Uang
+KTA Pintar-Cash Pro
+Pinjaman Dompet-Dana Online
+Dana ID Game: Penghasil Dana
+Dana Dompet Uang
+Kredit Yuk – Solusi Pinjaman
+Daget- Kuis Link Dana Kaget
+Pinjam Uang-Uang Kilat Tunai
+Kilat-Pinjaman Tunai
+Dana Mudah-Super Cash
+Dana Go-Kredit Cepat
+DuitKu-Pinjaman Online
+Tunai Sayang-Cepat Uang
+Uang Cepat-Pinjaman uang tunai tanpa jaminan cepat
+Aplikasi Penghasil Uang Cepat
+Credit cash
+Terus Dana-Langgeng Cash
+Dompet Digital Online-Pinjaman
+Pinjol Gampang Cair 2024 Guide
+Kami OKe – Aplikasi Pinjol Langsung Cair
+Pinjam Uang Kilat Cepat, Mudah, Langsung Cair
+Pesugihan Uang Gaib Cepat Cair Terlengkap
+Pinjol Legal Cepat Cair Tips
+Pinjam Uang Kilat – Cepat, Langsung Cair dan Mudah
+Cara Mudah Pinjam Uang Agar Cepat Cair
+Cara Pinjam Uang online Cepat Cair
+Pinjam Uang Kilat – Cair Kilat dan Cepat
+Tunaiku Cepat Cair – Info Pinjam Uang Cepat&Mudah
+Pinjam Mudah Cair Cepat-mudah uang cepat
+Tunai Kita Cair – Pinjam Uang Cepat Mudah Info
+PERTAMA CAIR — pinjam dengan mudah
+KSP UKB Mega Ekspres
+KSP TBN BUNGA KILAT
+KSP SBP Run Kilat
+KSP ESJ Durian runtuh
+KSP Jasa Tanah Abang Plus
+KSP Surya Kencana Jaya
+PundiKas-Pinjaman Online
+Ada Tunai- Pinjaman Online
+Pinjaman Dana Uang
+Pinjam Uang Kilat- Platform Pinjaman online cepat
+YouTunai — Kredit Pinjaman Uang Dana Kilat
+Dana Pinjaman-Kredit Pinjaman Uang Dana Kilat
+Uang Cepat – Pinjaman Dana Online Dan KTA Kilat
+HaloCash – Pinjaman Kilat Anda
+Pinjaman Kilat – Pinjaman yang memenuhi kebutuhan
+Cairin Uang Instan – Pinjam Uang Dana Cepat Info
+SELALU CEPAT – Solusi Dana Paling Cepat Cairnya
+CEPAT CAIR-Kredit pinjaman dana tunai tanpa agunan
+Dana Cepat – Pinjaman Uang Tunai Cepat Cair
+Dana Tunai – Pinjaman Online Cepat
+Cair Dana Kilat – Pinjaman uang online cepat cair
+Dana Arda – pinjam uang cepat cair
+KTApedia- pinjaman uang dana duit cash cepat cair
+Uang Tas – Kredit Dana Pinjaman Uang Cepat Cair
+Dana Go – Dana pinjaman cair seketika
+PAS DANA – Cair Kapan Saja, Pas Kamu Butuh
+Dompet harimau-kredit ponsel dana cair dengan cepat
+Tunai Cepat – Platform Pinjaman Cepat
+PopCash – Layanan uang tunai yang cepat
+EasyPinjaman- Pinjaman online tunai mudah cepat
+Kredit yang kuat-Uang tunai sangat cepat ditelepon
+Pinjaman Kalian – Pinjam Uang Dana Tunai Mudah
+KSP Dana Kilat pinjam uang dana tunai online
+Pinjam Mudah-Uang Online
+Tunai Indah
+Pinjam Emas-KTA Aman
+Pinjam Disini
+PINJAM KUY-App KTA Paling Cepat Aman & Nyaman
+Dana Pinjam- Kredit Pinjam Dana Tunai Online Cepat
+DanaCepat – Pinjaman Uang
+Prima Tunai – Pinjaman Dana Online Duit 24 Jam
+Ada Dana
+Money Kaya – Pinjaman Uang Dana Tunai Rupiah
+Dana Indo – Dana Tunai Online Pinjaman Kredit
+Butuh Uang – Pinjaman Dana KTA
+Dana Now Pro Pinjaman Uang Tunai Kredit Dana Cash
+Pinjaman Tanpa Jaminan
+Pinjamanku – Pinjaman Tanpa Jaminan
+Pinjaman Pribadi – Pinjaman Tanpa Jaminan
+wall in – pinjaman uang tanpa jaminan
+Dradana – pinjaman uang tanpa jaminan
+Nomor Satu Pinjaman – Kredit tanpa jaminan cepat
+Pinjaman online tanpa jaminan
+Pinjaman Dana Tanpa Jaminan
+Csash uang- pinjaman tanpa jaminan pinjaman ponsel
+TokoTunai – Pinjaman Uang Tanpa Jaminan Online
+Pinjaman Uang Tanpa Jaminan
+Pinjaman Akad – Pinjaman Uang Dana Mudah & Cepat
+Kredit Duit Plus-Pinjaman Uang Tunai Online
+Rich Teams Project
+Pasar Rupiah-KTA kredit pinjaman uang tunai online
+Pinjaman Akad – Pinjaman Uang Dana Mudah & Cepat
+Wall In – Pinjaman Uang Dana Tunai Online Cepat
+TangBull – Pinjaman Uang Dana via tangbull Cepat
+TangBull – Pinjaman Uang Dana Online via tangbull
+Wall In Aplikasi Pinjaman dengan Bunga Rendah
+Meminjam Saya – Rupiah Kasih
+TangBulled – Pinjaman Uang Dana via tangbull Cepat
+Pinjaman Online – Pinjaman Uang Dana Cepat
+BantuKilat – Pinjaman Uang Dana
+Pinjam Uang – Tempat pinjaman tanpa jaminan online
+Pinjaman Dana Tanpa Jaminan
+PinjamanPlus – Pinjaman Uang Tanpa Jaminan Online
+Solusi Cerdas – Pinjaman Tunai tanpa Jaminan
+Pinjaman Tunai tanpa Jaminan
+Kampung Kredit- Kredit Pinjaman Uang Tanpa Jaminan
+Pinjaman Tanpa Riba & Jaminan
+ManCep – Pinjaman Proses Cepat Tanpa Jaminan
+cepat uang – Pinjaman online cepat tanpa jaminan
+Tunai Kilat – Selamat Cash
+Dana Cepat-Pinjaman kedatangan kilat
+Uang petir pro
+CEPAT TUNTAS – Butuh Uang Tunai Tanpa Agunan
+Kami hadir – Butuh Uang Tunai Tanpa Agunan
+Pinjam Uang Mudah – Pinjam Cepat Kilat
+Kilat cepat-24 jam online pinjam uang
+Dana Cepat – Kecepatan Super Kilat
+Petir Pinjaman-online Refinancing uang tunai
+Angel Cash – Pinjaman Uang Dana Rupiah Cepat
+Bos Uang- Pinjaman Uang Dana Cepat, Mudah Cair
+TangBull – Pinjaman Uang Dana Online tangbull
+Dana Pintek Pinjaman Clue
+Dompet Beruntung Pinjaman-Info
+Pinjol Ilegal Mudah Cair Tip
+Rupiah Go Pinjaman Online
+Sinar Rupiah-Pinjaman Guide
+Sinar Rupiah Pinjaman Clue
+Rp Cepat – KSP Pinjaman Dana
+Rupiah Sapi
+Angel Yuk
+Pinjaman Rupiah- WeiWa Technical Compay
+Pinjaman Rupiah- xinhe
+Kredit Pinjaman-Dana Rupiah pinjaman uang online
+Pinjaman Rupiah- Keamanan Cepat Uang
+Pertama Pinjaman Rupiah
+Pinjaman Plus
+Rupiah Kilat Pinjaman Online Cepat Cair
+Pinjol Cepat Cair Tanpa KTP
+Pinjol Tanpa KTP Cair 2023 Tip
+Optima Pinjol Cair Hints
+Tips Dear Rupiah Pinjol
+KTA Kilat – Pinjaman Uang Rupiah Mudah & Cepat
+Cuan Kilat – Pinjaman Clue
+Tunai Kita Pinjol Online Clue
+Uang Tunai – Piniaman Uang Rupiah Kredit Kita
+Bos Tunai – Cair Secepat Kilat
+Pinjaman Bersama – Pinjam Online
+Pinjaman Dana – Uang Rupiah Kredit Kita UTunai
+KasKita Tunai
+Pinjam Cepat-Platform pinjaman uang tunai online
+Pinjam Go-Pinjaman Uang Tunai Kecil Online Cepat
+MariPinjam-Uang Pinjam Tunai Tanpa Jaminan Cepat
+Cepat Pinjaman
+DigiPinjam Cepat guide
+Uang Saku – Pinjam Uang KTA Online
+Uang Saku Pinjaman Tips
+Uang Kaya Pinjaman Tips
+Tunaimall
+Pinjol Tanpa Ktp Cair Info
+Pinjol Cepat Cair Tanpa KTP
+Dompet Super Pinjol Guide
+Hujanku – Pinjaman Dana Guide
+Dana Merdeka Pinjaman Clue
+O Dana Pinjaman Online Guide
+Rocket-Cash —Platform pinjaman online
+NAMA Modal Lite – Pinjaman Guide
+Dompet Pintar – Mudah mendapatkan kredit online
+Dompet Kredit – Fast and secure cash loan online
+Pinjamall Pinjaman Uang Tanpa Jaminan Online
+Pinjaman Uang Tanpa Jaminan Online
+SuperDana – Pinjaman Uang Online Tanpa Jaminan
+Pinjaman Darurat Cepat Tanpa Jaminan
+Pinjam Plus – Pinjaman online cepat tanpa jaminan
+Master Tunai – pinjaman uang tunai tanpa jaminan
+MinMoney – Pinjaman uang tunai tanpa jaminan cepat
+RupiahGo – Pinjaman online cepat tanpa jaminan
+Pinjaman Kredit-Pinjam uang tunai tanpa jaminan
+Pinjaman Kecil-Pinjaman Uang Tunai Tanpa Jaminan
+Pinjamall – Pinjaman Uang Tanpa Jaminan Online
+Pinjaman Tanpa Agunan-Pinjam Online Tanpa jaminan
+Kredit Uang – Tempat pinjaman tanpa jaminan online
+Uang Banyak- pinjaman tanpa jaminan
+Pinjamanku – Pinjaman Tanpa Jaminan
+Ccash uang- pinjaman tanpa jaminan pinjaman ponsel
+Dana Cash – Pinjaman rupiah tanpa jaminan
+Pinjaman Dana Tanpa Jaminan
+Pinjaman Online Tanpa Jaminan
+cashpintar – Pinjaman Uang Tanpa Jaminan Online
+Pinjaman Online Tanpa Jaminan
+Duit Pintar Pinjol Aman Guida
+Dana Cepat – Pinjol Mudah Tip
+Dear Rupiah Pinjol Dana Guide
+KOPI SUSU-Pinjaman Dana Hints
+Kreditin Pinjaman Online Guide
+PINJOL ILEGAL CEPAT CAIR CLUE
+Dana Darurat Pinjol Guide
+Uang Pintar Pinjaman Guide
+Duit Pintar- Pinjol Uang Guide
+Uang Pintek – Pinjaman Hints
+Rocket Money – Bills & Budgets
+Azimat Duit : Aman&Terpercaya
+Poll Pay: Earn Money Rewards
+U-Box pinjaman mudah cepat easy duit dana
+Dana Kami – Pinjol OJK Guide
+Good Dana Pinjol Guide
+Revolut: Spend, Save, Trade
+Cash Pro: Dana Pinjam Hint
+Pinjam Saja – Pinjaman Tunai Online
+Rupiahku – Game Penghasil Dana
+UangPintar
+Seder Cash
+Dana Megah
+Modal Pintar
+FLOA Bank – credit conso
+Grid Money
+Dana Pinjaman Modal Andalan
+HappyDana – Dana Cepat
+Akseleran – Dana Cepat, Tanpa Ribet
+Pinjaman Flash – Pinjaman Dana Cepat Tanpa Ribet
+Dana Cepat-Pinjaman Dana Online Proses Cepat
+Mantap Jiwa – Bantuan Dana Cepat Pinjaman
+Pinjaman Dana Cepat dan Pinjam Uang Cepat Mudah
+Uang Tunai Pinjam Uang Dana Tunai Cepat
+Uang Simpanan-Kredit Pinjam Dana Tunai Cepat
+TunaiLangsung – Pinjaman online tunai mudah cepat
+KreditCepat: Pinjaman Uang Dana Tunai Online Cepat Uang Teman
+KSP Manggis
+Klik Rupiah
+Rupiah Kurir Pinjaman Tips
+Rupiah Masuk – Pinjaman Guide
+Dompet Super Pinjaman Guide
+Mekar Dompet Dana Pinjam Clue
+KLIK PINJAM
+Dana Kilat
+Dana kilat-Pinjaman online mudah & cepat
+Pinjam Kilat—Rupiah Dana Uang Kredit Cepat
+Pinjam Kredit Kilat–Pinjaman Cepat Dana Uang Tunai
+Tunai mudah
+Tunai Mudah – Dana talangan termudah
+Go Tunai – Pinjaman Uang Aman &
+Mudah CashInd – Pinjaman Uang
+Tunai Dana Mudah & Cepat
+pinjaman online – cara mudah pinjam dana tunai
+Dana Tunai – Pinjam Online Mudah Dan Cepat
+Rumah Kredit-Tempat Pinjaman Kredit Rupiah Efisien
+RupiahDompet – Kredit Online Tanpa Jaminan
+Kredit Rupiah – Pinjaman Uang
+Simple Cash – Cari Pinjaman Terpercaya OJK
+Kredit-Yuk —kredit uang cepat
+Panda Cash – Pinjaman Kredit Mudah Tanpa Agunan
+Banana Duit-Uang Pinjam Cepat Online
+Peach Duit-Tempat Pinjam Uang Dana
+Cara Pinjaman Syariah Online Cepat Cair-Loan Guide
+Pinjaman Uang Online
+Pinjaman online – uang
+DanaNow – Pinjaman Uang Online
+WeHelplt – Pinjaman Uang Online
+Dana King – pinjaman uang online mudah cepat
+Meminjam Uang – Pinjaman online cepat dan Mudah
+Pinjaman Dana—Kredit cepat Pinjaman Uang Online
+Dana RG – Pinjaman Uang Online Cepat
+Kredit Pinjaman Online uang
+Cepat Cair
+Daftar Pinjol Aman Cepat Cair
+Go Uang Pinjol Cepat Cair Tips
+pinjaman online safe guide
+KreditPro Pinjaman Online Tips
+Pinjaman Online – Platform pinjaman yang fleksibel
+Gajah Modal
+Rumah Modal
+KUR Pinjaman Modal Online
+Dapetin Modal – Dapatkan Modalmu Dengan Mudah
+Pinjol Tanpa Verifiksi Ktp Tip
+Dana Cash – Pinjol OJK guide
+Duit Pintar – Pinjol OJK Guide
+Dana Kami – Pinjol OJK Guide
+Pinjol KTA Cepat Cair OJK Info
+Uang Pintek Pinjol Tips Aman
+Kotak Uang Pinjol Apk Guide
+Pinjol Super APK
+Uang Uang Kita 
+Pinjol Mudah
+KAMIKAN – Aplikasi Pinjol Terbaik se Indonesia
+Pinjol Bayar Bulanan Tip
+Danafix- Pinjaman Online Cicilan Kredit Cepat Uang
+Danafix – pinjaman online, pertama tanpa bunga
+DANA-INDO PINJAMAN MUDAH TIP
+PINJOL 500 RIBU CEPAT CAIR TIP
+PINJOL CEPAT CAIR 24 JAM TIP
+PINJOL BAYAR BULANAN 2023 TIP
+PINJOL KTP BUSUK CAIR TIP
+PINJOL MODAL CUKUP KTP TIP
+PINJOL GALBAY AMAN CAIR TIP
+PINJOL ANTI DC SOLUSI AMAN TIP
+Pinjol Kur Mandiri Hints
+Super Loan – pinjol tanpa agunan 2019
+CAIRKAN – Aplikasi Pinjol Maha Asik
+Pinjol Tenor Bulanan 2023 Tip
+Dana-Indo Pinjol AmanOJK 2023
+Pinjol Tenor 6 Bulan ojk guide
+Zaku Siap – pinjol terbaik 2019
+Pinjol Kilat
+Happy Uang APK
+Helo Money APK
+Rp Zone – Gudang Aplikasi Pinjol Pilihanmu
+TEMAN KOIN – Pinjol Tanpa Agunan
+PundiKas-Pinjaman Online
+Pintar Cair Pinjaman 24jam
+Super Cash Aman Duit
+Dana Fulus-Pinjama Cepat
+Pinjaman dana cicil
+Cash Dompet-Kredit Uang
+Pinjaman Online Cepat Cair
+iPinjam – Pinjaman Tunai Cepat
+Pinjaman Tunai MANDIRI – Dana Cepat
+Vos Uang -Pinjaman Dana Tunai Cepat Pinjaman Mudah
+Pintu – Pinjaman Tunai Cepat
+Pinjaman Cepat – Pinjaman uang online cepat cair
+Cepat Cair
+Pinjol THR Lebaran Cepat Cair
+Paylater Gopay Cepat Cair Guia
+Kreditpro KTA Cair Cepat Hints
+Pintar Cair – Pinjaman 24jam
+Ada Tunai-Pinjaman Online
+Duit Sayang-Kredit Uang Kilat
+Uang Lancar
+Dana Mudah-Super Cash
+KTA MUDAH
+Pinjaman Gaji-Pembayaran cepat
+Dana Mudah-Pinjaman Cepat
+Pinjam duit
+Pinjam Duit Instant
+Pinjam duit
+Duit Go
+Duit Duit juta cepat easy flash pedia
+Super Cash – Aman Duit
+JadiDuit – Free dapat uang, data dan gift
+Duit sayang
+Dana Pinjaman Uang Cepat
+Abadi Dana – Dompet apk",
       "video": ""
     },
     {
       "id": 5,
-      "category": "GUIDE",
-      "title": "Penfed Credit Union",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/PenFed.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/5.Penfed%20Credit%20Union.html",
+      "category": "Tips",
+      "title": "PENTING! SIMAK BEDANYA, INI CIRI-CIRI PINJOL LEGAL DAN ILEGAL",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img05.jpg",
+      "content": "JAKARTA - Maraknya pinjaman online (pinjol) ilegal belakangan ini telah menimbulkan keresahan di masyarakat. Tak jarang, mereka yang terjebak menerima perlakuan tak etis, bahkan teror saat ditagih pinjol ilegal.
+
+ 
+
+Karena itu, sangat penting bagi masyarakat untuk mengetahui ciri-ciri pinjaman online yang legal dan ilegal. Dengan begitu, masyarakat dapat terhindar dari jerat utang serta praktik-praktik tak etis dalam penagihannya.
+
+ 
+
+Dilansir dari laman resmi Otoritas Jasa Keuangan (OJK), berikut ciri-ciri pinjaman online ilegal:
+
+Tidak terdaftar/tidak berizin dari OJK
+Menggunakan SMS/Whatsapp dalam memberikan penawaran
+Pemberian pinjaman sangat mudah
+Bunga atau biaya pinjaman serta denda tidak jelas
+Ancaman teror, intimidasi, pelecehan bagi peminjam yang tidak bisa membayar
+Tidak mempunyai layanan pengaduan
+Tidak mengantongi identitas pengurus dan alamat kantor yang tidak jelas
+Meminta akses seluruh data pribadi yang ada di dalam gawai peminjam
+Pihak yang menagih tidak mengantongi sertifikasi penagihan yang dikeluarkan Asosiasi Fintech Pendanaan Bersama Indonesia (AFPI)
+ 
+
+Sementara itu, perusahaan pemberi pinjaman online yang legal memiliki kriteria-kriteria sebagai berikut:
+
+Terdaftar/berizin dari OJK
+Pinjol legal tidak pernah menawarkan melalui saluran komunikasi pribadi
+Pemberian pinjam akan diseleksi terlebih dahulu
+Bunga atau biaya pinjaman transparan
+Peminjam yang tidak dapat membayar setelah batas waktu 90 hari akan masuk ke daftar hitam (blacklist) Fintech Data Center sehingga peminjam tidak dapat meminjam dana ke platform fintech yang lain
+Mempunyai layanan pengaduan
+Mengantongi identitas pengurus dan alamat kantor yang jelas
+Hanya mengizinkan akses kamera, mikrofon, dan lokasi pada gawai peminjam
+Pihak penagih wajib memiliki sertifikasi penagihan yang diterbitkan oleh AFPI.",
       "video": ""
     },
     {
       "id": 6,
-      "category": "GUIDE",
-      "title": "DISCOVER",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Discover.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/6.DISCOVER.html",
+      "category": "Tips",
+      "title": "Perhatikan dan Pahami Syarat Serta Ketentuan yang Ditetapkan",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img06.jpg",
+      "content": "Selaku calon nasabah, alangkah baiknya jika kamu perhatikan dan pahami dulu sejumlah syarat serta ketentuan yang ditetapkan fintech sebelum mengajukan pinjaman. Simak seluruh prosedur dan patuhi aturannya agar pengajuan pinjamanmu mendapatkan persetujuan.
+
+Jangan lupa untuk meneliti secara rinci seluruh informasi mengenai tagihannya. Seperti tenor (jangka waktu pelunasan) serta suku bunga yang ditetapkan. Telaah juga persyaratan dan biaya potongan administrasi yang akan dibebankan pinjaman online kepada nasabah.
+
+Pinjaman online yang terdaftar di OJK akan menetapkan jangka waktu pelunasan, suku bunga, cara menagih dan persyaratan lain dengan sewajarnya. Dengan demikian, nasabahnya pun tidak akan dirugikan oleh penagihan yang tak sesuai tenor atau bunga yang membengkak.
+
+Waspadai persyaratan yang diberlakukan pinjol terkait. Jika terdapat kerancuan seperti meminta foto kartu kredit atau hal lainnya sebagai bagian dari persyaratan pengajuan. Pinjaman online OJK umumnya hanya akan meminta data slip gaji, KTP, foto diri dan beberapa dokumen pribadi lainnya untuk mendukung transaksi.
+
+Jadilah proaktif. Pastikan kamu menelusuri dan mengecek layanan customer service dari pinjol yang bersangkutan. Pinjaman online resmi akan menyediakan layanan kontak yang siap sedia dan mudah untuk dihubungi. 
+
+Bila perlu, cek alamat email, alamat kantor, hingga akun media sosialnya agar kamu dapat mudah menjangkau fintech tersebut jika sewaktu-waktu terjadi masalah atau kendala di luar dugaan.
+
+Baca Juga: Lebih Cerdas Pinjam Uang Online, Hindari Aplikasi Pinjaman Online Ilegal Temuan OJK",
       "video": ""
     },
     {
       "id": 7,
-      "category": "GUIDE",
-      "title": "UPSTART",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Upstart.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/7.UPSTART.html",
+      "category": "Tips",
+      "title": "Begini Trik Agar Pinjaman Online di-Acc dan Cepat Cair",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img07.jpg",
+      "content": "Aplikasi pinjaman online bisa jadi solusi buat kamu yang sedang butuh dana darurat. Namun sebelum mulai mengajukan pinjaman, kamu harus tahu trik agar pinjaman online di-acc tanpa harus menunggu lama.
+
+Meski lebih mudah daripada cara konvensional, tetap ada beberapa syarat dan hal penting yang perlu diperhatikan. Misalnya saja, kamu perlu menyiapkan foto KTP yang jelas, data yang valid, nomor telepon atau email yang bisa dihubungi, dan skor kredit yang bagus. Jangan lewatkan kalau kamu nggak mau gagal dapat pinjaman online.
+
+Kalau masih bingung, Jaka sudah siapkan trik agar pinjaman online di-acc yang bisa kamu terapkan. Trik ini bisa membantu kamu melewati proses verifikasi dengan lancar dan pinjamanmu cair dengan cepat. Yuk, intip.",
       "video": ""
     },
     {
       "id": 8,
-      "category": "GUIDE",
-      "title": "US BANK",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/USBank.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/8.US%20BANK.html",
+      "category": "Tips",
+      "title": "Cara Lolos Pinjol Data Busuk",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img01.jpg",
+      "content": "Pinjaman online (pinjol) merupakan salah satu alternatif solusi keuangan yang banyak diminati oleh masyarakat. Namun, tidak semua orang bisa mendapatkan pinjaman dari pinjol, terutama bagi mereka yang memiliki data busuk.
+
+Data busuk adalah data yang menunjukkan bahwa seseorang pernah mengalami gagal bayar utang atau memiliki pinjaman macet. Data ini biasanya tersimpan di Sistem Layanan Informasi Keuangan (SLIK) Otoritas Jasa Keuangan (OJK).
+
+Jika Anda memiliki data busuk, Anda tidak perlu khawatir. Ada beberapa cara yang bisa Anda lakukan untuk lolos pinjol. Berikut ini adalah beberapa tipsnya:
+
+1. Pilih pinjol yang tepat
+
+Langkah pertama yang harus Anda lakukan adalah memilih pinjol yang tepat. Ada banyak pinjol yang menawarkan berbagai macam produk pinjaman. Namun, tidak semua pinjol memiliki kebijakan yang sama dalam menerima pengajuan pinjaman.
+
+Ada beberapa pinjol yang lebih fleksibel dalam menerima pengajuan pinjaman dari orang-orang dengan data busuk. Pinjol-pinjol ini biasanya memiliki persyaratan yang lebih rendah dan proses verifikasi yang lebih cepat.2. Lengkapi data diri dengan benar
+
+Saat mengajukan pinjaman, Anda harus mengisi data diri dengan benar dan lengkap. Data diri ini akan digunakan oleh pinjol untuk melakukan verifikasi.
+
+Pastikan Anda mengisi data diri dengan benar dan lengkap, termasuk nama lengkap, alamat, nomor telepon, dan nomor rekening bank. Anda juga harus mengisi informasi pekerjaan dan penghasilan Anda.
+
+3. Berikan informasi yang lengkap
+
+Selain data diri, Anda juga perlu memberikan informasi yang lengkap tentang kebutuhan pinjaman Anda. Informasi ini akan digunakan oleh pinjol untuk menilai kelayakan pinjaman Anda.
+
+Pastikan Anda memberikan informasi yang lengkap dan akurat, termasuk jumlah pinjaman yang Anda butuhkan, tenor pinjaman, dan tujuan pinjaman.
+
+4. Buktikan kemampuan Anda membayar
+
+Pinjol akan menilai kemampuan Anda membayar pinjaman berdasarkan data yang Anda berikan. Jika Anda memiliki data busuk, Anda perlu membuktikan bahwa Anda memiliki kemampuan membayar pinjaman.
+
+Anda bisa membuktikannya dengan menunjukkan slip gaji, rekening koran, atau dokumen lain yang menunjukkan bahwa Anda memiliki penghasilan yang stabil.5. Bersikaplah kooperatif
+
+Jika Anda mengajukan pinjaman ke pinjol, Anda harus bersikap kooperatif dan mengikuti instruksi dari pinjol. Pinjol akan melakukan verifikasi terhadap data yang Anda berikan.
+
+Jika Anda bersikap kooperatif, pinjol akan lebih mudah untuk memproses pengajuan pinjaman Anda.
+
+Tips tambahan
+
+Berikut ini adalah beberapa tips tambahan yang bisa Anda lakukan untuk meningkatkan peluang Anda lolos pinjol:
+
+Ajukan pinjaman ke pinjol yang memiliki reputasi baik. Anda bisa mencari informasi tentang reputasi pinjol di internet atau bertanya kepada teman atau keluarga yang pernah menggunakan pinjol.
+Jangan mengajukan pinjaman ke banyak pinjol sekaligus. Hal ini akan membuat Anda terlihat sebagai orang yang sedang kesulitan keuangan.
+Bayarlah cicilan pinjaman Anda tepat waktu. Hal ini akan menunjukkan kepada pinjol bahwa Anda memiliki kemampuan membayar pinjaman.
+Jika Anda mengikuti tips-tips di atas, peluang Anda lolos pinjol akan lebih besar. Namun, Anda tetap harus berhati-hati dalam mengajukan pinjaman online. Pastikan Anda memahami syarat dan ketentuan pinjaman sebelum mengajukannya.",
       "video": ""
     },
     {
       "id": 9,
-      "category": "GUIDE",
-      "title": "UPGRADE",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Upgrade.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/9.UPGRADE.html",
+      "category": "Tips",
+      "title": "Pinjol Data Busuk Cair 2024",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img02.jpg",
+      "content": "Pinjaman online (pinjol) merupakan salah satu produk keuangan yang semakin populer di Indonesia. Namun, di balik kemudahannya, pinjol juga memiliki risiko yang cukup tinggi, salah satunya adalah pinjaman dengan data busuk.
+
+Pengertian data busuk dalam konteks pinjol adalah data yang tidak akurat atau tidak valid. Data busuk ini dapat berupa informasi pribadi, seperti nama, alamat, nomor telepon, atau nomor rekening. Data busuk dapat terjadi karena berbagai faktor, seperti kesalahan input data, data yang sudah kadaluwarsa, atau data yang dipalsukan.
+
+Pinjol data busuk cair adalah pinjol yang memberikan pinjaman kepada peminjam dengan data busuk. Pinjol ini biasanya menawarkan pinjaman dengan bunga dan biaya yang tinggi. Peminjam yang menggunakan pinjol data busuk cair berisiko mengalami kesulitan dalam membayar pinjamannya.
+
+Risiko menggunakan pinjol data busuk cair antara lain:
+
+Peminjam kesulitan membayar pinjaman. Bunga dan biaya yang tinggi pada pinjol data busuk cair membuat peminjam kesulitan untuk melunasi pinjamannya.
+Peminjam mendapatkan penagihan yang agresif. Pinjol data busuk cair biasanya menggunakan penagihan yang agresif untuk menagih pinjaman dari peminjam.Peminjam diancam atau diintimidasi. Pinjol data busuk cair tidak jarang mengancam atau mengintimidasi peminjam yang tidak dapat melunasi pinjamannya.
+Untuk menghindari risiko menggunakan pinjol data busuk cair, ada beberapa hal yang dapat dilakukan, antara lain:
+
+Cek reputasi pinjol. Sebelum mengajukan pinjaman, sebaiknya cek reputasi pinjol terlebih dahulu. Pastikan pinjol tersebut terdaftar dan diawasi oleh Otoritas Jasa Keuangan (OJK).
+Baca syarat dan ketentuan pinjaman dengan cermat. Pahamilah syarat dan ketentuan pinjaman, termasuk bunga, biaya, dan cara pembayaran.
+Jangan mudah tergiur dengan penawaran yang menggiurkan. Pinjol data busuk cair biasanya menawarkan pinjaman dengan bunga dan biaya yang rendah. Namun, perlu diingat bahwa pinjaman dengan bunga dan biaya yang rendah biasanya memiliki risiko yang tinggi.
+Jika Anda sudah terlanjur menggunakan pinjol data busuk cair, berikut adalah beberapa tips yang dapat dilakukan:
+
+Hubungi pinjol untuk mendiskusikan masalah pinjaman. Cobalah untuk bernegosiasi dengan pinjol untuk mendapatkan keringanan pembayaran.
+Laporkan pinjol tersebut ke OJK. OJK dapat membantu Anda menyelesaikan masalah pinjaman dengan pinjol.
+",
       "video": ""
     },
     {
       "id": 10,
-      "category": "GUIDE",
-      "title": "Wells Fargo",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/WellsFargo.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/10.Wells%20Fargo.html",
+      "category": "Tips",
+      "title": "Joki Pinjol Data Busuk",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img03.jpg",
+      "content": "Joki Pinjol Data Busuk: Cara Kerja, Biaya, dan Risiko
+
+Joki pinjol data busuk adalah orang yang menawarkan jasa membantu seseorang untuk mendapatkan pinjaman online (pinjol) meskipun memiliki data yang buruk atau "busuk". Data busuk adalah data yang telah ditolak oleh pinjol karena alasan tertentu, seperti memiliki riwayat kredit buruk, pernah mengalami gagal bayar, atau memiliki tunggakan pinjaman.Joki pinjol data busuk biasanya bekerja dengan cara mengumpulkan data pribadi orang lain, seperti nama lengkap, tanggal lahir, alamat, nomor telepon, dan rekening bank. Data tersebut kemudian digunakan untuk membuat akun pinjol baru. Joki pinjol juga akan membantu mengisi formulir pengajuan pinjaman dan melakukan proses verifikasi data.Biaya yang dikenakan oleh joki pinjol data busuk biasanya bervariasi, mulai dari jutaan rupiah hingga puluhan juta rupiah. Biaya tersebut biasanya tergantung pada jumlah pinjaman yang diajukan, tingkat kesulitan pengajuan pinjaman, dan reputasi joki pinjol.
+
+Ada beberapa risiko yang harus dipertimbangkan sebelum menggunakan jasa joki pinjol data busuk, antara lain:
+
+Resiko penipuan: Joki pinjol data busuk ilegal dapat menipu korbannya dengan meminta biaya awal yang besar atau dengan tidak memberikan pinjaman sama sekali.
+Resiko masuk daftar hitam: Jika pengajuan pinjaman ditolak oleh pinjol, nama peminjam akan masuk ke dalam daftar hitam. Hal ini akan membuat peminjam sulit untuk mendapatkan pinjaman dari pinjol lain di masa mendatang.
+Resiko kriminal: Joki pinjol data busuk ilegal dapat dijerat dengan hukum pidana, termasuk penjara.
+Berikut adalah beberapa tips untuk menghindari penipuan joki pinjol data busuk:
+
+Gunakan jasa joki pinjol data busuk yang terpercaya: Pastikan joki pinjol tersebut memiliki reputasi yang baik dan memiliki banyak testimoni positif dari para pelanggannya.
+Jangan memberikan uang di awal: Joki pinjol yang terpercaya tidak akan meminta uang di awal.
+Bacalah syarat dan ketentuan pinjaman dengan cermat: Pastikan Anda memahami syarat dan ketentuan pinjaman sebelum mengajukannya.
+Jika Anda mengalami masalah dengan pinjaman online, Anda dapat menghubungi Otoritas Jasa Keuangan (OJK) untuk mendapatkan bantuan. OJK memiliki layanan pengaduan pinjol yang dapat diakses melalui website OJK atau melalui nomor telepon 157.
+
+Berikut adalah beberapa contoh kasus penipuan joki pinjol data busuk:
+
+Pada tahun 2022, polisi menangkap seorang pria di Jakarta yang diduga telah menipu 10 orang dengan modus menawarkan jasa joki pinjol data busuk. Pria tersebut meminta uang sebesar Rp5 juta kepada masing-masing korbannya. Namun, setelah uang tersebut diterima, pria tersebut tidak memberikan pinjaman sama sekali.
+Pada tahun 2023, polisi menangkap seorang wanita di Surabaya yang diduga telah menipu 20 orang dengan modus menawarkan jasa joki pinjol data busuk. Wanita tersebut meminta uang sebesar Rp10 juta kepada masing-masing korbannya. Namun, setelah uang tersebut diterima, wanita tersebut tidak memberikan pinjaman sama sekali.
+Oleh karena itu, Anda harus berhati-hati sebelum menggunakan jasa joki pinjol data busuk. Pastikan Anda memahami risiko yang mungkin terjadi sebelum mengambil keputusan.",
       "video": ""
     },
     {
       "id": 11,
-      "category": "ADVICE",
-      "title": "BEST EGG",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/BESTEGG.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/11.BEST%20EGG.html",
-      "video": ""
-    },
-    {
+      "category": "Tips",
+      "title": "Pinjol Gampang Cair Data Busuk",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img04.jpg",
+      "content": "Pinjol Gampang Cair Data Busuk: Pengertian, Risiko, dan Tips Menghindarinya
+
+Pinjaman online (pinjol) merupakan salah satu alternatif solusi keuangan yang banyak diminati oleh masyarakat. Pinjol menawarkan kemudahan dan kecepatan dalam mendapatkan pinjaman, tanpa perlu melalui proses yang berbelit-belit. Namun, tidak semua orang bisa mendapatkan pinjaman dari pinjol, terutama bagi mereka yang memiliki data busuk.
+
+Apa itu data busuk?
+
+Data busuk adalah data yang menunjukkan bahwa seseorang pernah mengalami gagal bayar utang atau memiliki pinjaman macet. Data ini biasanya tersimpan di Sistem Layanan Informasi Keuangan (SLIK) Otoritas Jasa Keuangan (OJK).
+
+Pinjol gampang cair data busuk adalah pinjol yang memberikan pinjaman kepada orang-orang yang memiliki data busuk. Pinjol ini biasanya menawarkan persyaratan yang lebih mudah dan bunga yang lebih tinggi.
+
+Risiko pinjol gampang cair data busuk
+
+Pinjol gampang cair data busuk memiliki beberapa risiko, antara lain:
+
+Bunga yang tinggi. Pinjol gampang cair data busuk biasanya menawarkan bunga yang lebih tinggi daripada pinjol konvensional. Hal ini disebabkan oleh risiko yang lebih tinggi yang dihadapi oleh pinjol tersebut.Denda yang tinggi. Pinjol gampang cair data busuk biasanya juga mengenakan denda yang tinggi untuk keterlambatan pembayaran. Hal ini dapat membuat beban utang menjadi semakin berat.
+Tindakan penagihan yang kasar. Pinjol gampang cair data busuk terkadang menggunakan tindakan penagihan yang kasar untuk menagih utang. Hal ini dapat menimbulkan tekanan psikologis yang berat bagi debitur.
+Tips menghindari pinjol gampang cair data busuk
+
+Berikut adalah beberapa tips untuk menghindari pinjol gampang cair data busuk:
+
+Cek legalitas pinjol. Sebelum mengajukan pinjaman, pastikan bahwa pinjol tersebut terdaftar di OJK. Anda dapat mengecek daftar pinjol terdaftar di situs resmi OJK.
+Pahami syarat dan ketentuan pinjaman. Pastikan Anda memahami syarat dan ketentuan pinjaman sebelum mengajukannya. Hal ini penting untuk menghindari hal-hal yang tidak diinginkan di kemudian hari.
+Pertimbangkan risikonya. Pinjol gampang cair data busuk memiliki risiko yang lebih tinggi. Pastikan Anda mempertimbangkan risiko tersebut sebelum mengajukan pinjaman.
+Jika Anda membutuhkan pinjaman, sebaiknya pertimbangkan untuk mengajukan pinjaman dari bank konvensional atau lembaga keuangan resmi lainnya. Lembaga keuangan tersebut memiliki proses yang lebih ketat dalam memberikan pinjaman, namun risikonya juga lebih rendah.
       "id": 12,
-      "category": "ADVICE",
-      "title": "LENDING POINT",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/LENDINGPOINT.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/12.LENDING%20POINT.html",
+      "category": "Tips",
+      "title": "Cara Bobol Pinjol Pakai Data Busuk",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img05.jpg",
+      "content": "Cara Bobol Pinjol Pakai Data Busuk
+
+Pinjaman online (pinjol) telah menjadi salah satu alternatif solusi keuangan bagi masyarakat Indonesia. Namun, tidak semua pinjol terdaftar di Otoritas Jasa Keuangan (OJK). Pinjol ilegal sering menawarkan pinjaman dengan syarat yang mudah, bahkan bagi mereka yang memiliki riwayat kredit yang buruk atau bahkan dalam masalah kredit macet.
+
+Cara paling umum untuk membobol pinjol pakai data busuk adalah dengan menggunakan data orang lain. Data ini dapat diperoleh dari berbagai sumber, seperti media sosial, website, atau bahkan dari orang-orang terdekat. Setelah mendapatkan data tersebut, pelaku kejahatan akan membuat akun pinjol menggunakan data tersebut dan mengajukan pinjaman.
+
+Untuk membuat akun pinjol, pelaku kejahatan biasanya akan menggunakan foto orang lain yang memiliki wajah mirip dengan mereka. Selain itu, mereka juga akan menggunakan nomor telepon atau rekening bank orang lain.
+
+Jika pengajuan pinjaman disetujui, pelaku kejahatan akan menerima dana pinjaman tersebut. Dana tersebut kemudian dapat digunakan untuk kepentingan pribadi, seperti untuk belanja, investasi, atau bahkan untuk membayar utang pinjol lainnya.
+
+Berikut adalah langkah-langkah cara membobol pinjol pakai data busuk:
+
+Kumpulkan data orang lain. Data yang diperlukan meliputi nama lengkap, tanggal lahir, alamat, nomor telepon, dan rekening bank.Buat akun pinjol menggunakan data tersebut. Saat membuat akun, gunakan foto orang lain yang memiliki wajah mirip dengan Anda.
+Ajukan pinjaman. Setelah akun dibuat, ajukan pinjaman sesuai dengan kebutuhan Anda.
+Terima dana pinjaman. Jika pengajuan pinjaman disetujui, Anda akan menerima dana pinjaman tersebut.
+Perlu diingat bahwa membobol pinjol pakai data busuk adalah tindakan ilegal. Pelaku kejahatan dapat dikenakan sanksi pidana, termasuk penjara. Selain itu, tindakan ini juga dapat merugikan orang lain yang datanya digunakan.
+
+Berikut adalah beberapa tips untuk menghindari pembobolan pinjol pakai data busuk:
+
+Jangan pernah memberikan data pribadi Anda kepada orang yang tidak Anda kenal.
+Hati-hati saat menggunakan media sosial. Jangan membagikan data pribadi Anda secara sembarangan.
+Gunakan aplikasi pinjol yang terdaftar di OJK.
+Bacalah syarat dan ketentuan pinjaman dengan cermat sebelum mengajukan pinjaman.
+Jika Anda merasa menjadi korban pembobolan pinjol pakai data busuk, Anda dapat melaporkannya ke pihak berwajib.",
       "video": ""
     },
     {
       "id": 13,
-      "category": "ADVICE",
-      "title": "ROCKET LOANS",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/ROCKET.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/13.ROCKET%20LOANS.html",
+      "category": "Tips",
+      "title": "Tips Mengatur Keuangan Agar Kamu Tidak Terjerat Pinjol Ilegal",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img06.jpg",
+      "content": "Dewasa ini, perkembangan teknologi yang semakin cepat berpengaruh juga terhadap bidang keuangan, salah satunya adalah makin maraknya penyedia jasa pinjam uang online atau pinjol. Pinjol acap kali menjadi jalan pintas bagi mereka yang terdesak dengan kondisi perekonomiannya. Tak sedikit juga pinjol illegal yang menawarkan kemudahan dalam mendapatkan pinjaman dengan cara instan. Padahal, modal KTP yang dijadikan syarat peminjaman bisa saja digunakan dengan tidak bertanggung jawab oleh penyedia pinjol tersebut. Otoritas Jasa Keuangan atau OJK mencatat terdapat 3.903 laporan tentang pinjol ilegal selama periode 1 januari hingga 29 Mei 2023, dengan nilai hingga Rp51,46 triliun. Per Februari 2023, OJK mencatat ada 85 pinjol illegal dan 102 pinjol legal.
+
+Peminjaman uang dengan sistem fintech lending ini banyak dimanfaatkan masyarakat terutama untuk kelompok yang tidak memiliki akses layanan perbankan atau lembaga sejenisnya. Tidak sedikit pula yang terlena dengan kemudahan yang diberikan bahkan menjadi terperangkap, tidak bisa lepas dari jeratan dan berakhir dengan gali lubang tutup lubang. Berikut delapan tips agar kalian tidak terperangkap jerat pinjol ilegal.",
       "video": ""
     },
     {
       "id": 14,
-      "category": "ADVICE",
-      "title": "UNIVERSAL CREDIT",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/UNIVERSALCREDIT.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/14.UNIVERSAL%20CREDIT.html",
+      "category": "Tips",
+      "title": "1. Buatlah perencanaan keuangan yang baik",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img07.jpg",
+      "content": "Setiap permasalahan keuangan sebagian besar disebabkan karena kurangnya perencanaan keuangan yang baik. Perencanaan keuangan sangat penting keberadaannya. Dengan membuat perencanaan keuangan kita dapat memetakan secara tepat dan rinci jumlah penerimaan dan kebutuhan kita sehingga pengeluaran kita lebih teratur. Perencanaan keuangan dapat dimulai dari membuat rencana anggaran, membuat catatan keuangan, menyisihkan dana untuk dana darurat dan menabung bahkan hingga kebutuhan untuk investasi.",
       "video": ""
     },
     {
       "id": 15,
-      "category": "ADVICE",
-      "title": "When Should You Consider a Personal Loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image21",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/15.When%20Should%20You%20Consider%20a%20Personal%20Loan.html",
+      "category": "Tips",
+      "title": "2. Tingkatkan literasi keuangan",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img08.jpg",
+      "content": "Masyarakat perlu untuk mengetahui bagaimana untuk mengelola uang dengan baik. Namun bukan hanya itu, setelah mengetahui ilmu tentang mengelola keuangan, menerapkannya dalam kehidupan sehari-hari juga tak kalah penting. Dengan literasi keuangan yang mumpuni, kita bisa lebih memahami mana kebutuhan dan keinginan sehingga mampu memilih dan memilah mana prioritas bagi diri kita sendiri.",
       "video": ""
     },
     {
       "id": 16,
-      "category": "ADVICE",
-      "title": "Pros and Cons of Fast Personal Loans",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image21",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/16.Pros%20and%20Cons%20of%20Fast%20Personal%20Loans.html",
+      "category": "Tips",
+      "title": "3. Atur sesuai skala prioritas",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img09.jpg",
+      "content": "Biasakan membelanjakan uang kita berdasarkan skala prioritas yang dibuat sebelumnya. Penyusunan skala prioritas dengan mendahulukan kebutuhan daripada keinginan. Kebutuhan seperti uang makan, uang sewa rumah, biaya transportasi, listrik dan lain sebagainya. Semua hal itu akan berada di daftar atas, sedangkan anggaran untuk staycation, nonton konser atau skin care akan berada dibawahnya.",
       "video": ""
     },
     {
       "id": 17,
-      "category": "ADVICE",
-      "title": "Obtaining a Fast Personal Loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image21",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/17.Obtaining%20a%20Fast%20Personal%20Loan.html",
+      "category": "Tips",
+      "title": "4. Pilih produk investasi dan tabungan dengan tepat",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img10.jpg",
+      "content": "Penting bagi kita untuk dapat melakukan investasi sejak dini, ketika ada idle cash jangan ragu untuk melakukan investasi. Selain untuk dapat mempercepat finansial freedom, investasi juga dilakukan karena kita tidak tahu apa yang akan terjadi kedepannya, baik itu inflasi atau hal buruk lainnya yang mungkin tidak kita inginkan. Pilih investasi yang sesuai yang memang kita ketahui ilmu dan resikonya bukan karena ikut-ikutan. Perlu diketahui bahwa investasi banyak bentuknya mulai dari emas, saham hingga reksadana, pilih yang memang cocok dengan diri kita.",
       "video": ""
     },
     {
       "id": 18,
-      "category": "ADVICE",
-      "title": "What is a personal loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image21",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/18.What%20is%20a%20personal%20loan.html",
+      "category": "Tips",
+      "title": "5. Jangan FOMO",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img01.jpg",
+      "content": "Dalam data Fintech P2P Lending OJK menerangkan jika 60% pinjaman disalurkan pada nasabah dengan usia 19-34 tahun (Gen X dan Y). Hal ini tidak mengherankan karena adanya sifat FOMO atau fear of missing out atau perasaan takut tertinggal tren kekinian di kalangan anak muda yang memang banyak dirasakan saat ini. Media sosial dan lingkungan pertemanan menjadi penyebab hadirnya sifat FOMO ini. Tak sedikit anak muda yang malah terjebak, sebagai contoh adanya konser yang membuat kalangan anak muda ingin melihatnya padahal tidak memiliki uang dan berujung memilih pinjol illegal sebagai jalan keluar yang membawanya menuju kesesatan. Apalagi dengan mudahnya syarat untuk meminjam, membuat generasi muda tak berpikir panjang tanpa perencanaan yang matang. Hindari mengambil keputusan karena ikut-ikutan.",
       "video": ""
     },
     {
       "id": 19,
-      "category": "ADVICE",
-      "title": "Where to get a fast loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image21",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/19.Where%20to%20get%20a%20fast%20loan.html",
+      "category": "Tips",
+      "title": "6. Hindari window shopping",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img02.jpg",
+      "content": "Menurut Cambridge Dictionary, window shopping adalah kegiatan menghabiskan waktu untuk melihat-lihat produk yang dipajang pada etalase toko tanpa berniat membelinya. Saat ini window shopping tidak hanya dilakukan di mall atau tempat perbelanjaan lainnya, namun juga bisa dilakukan hanya dengan menatap layar gawai kita. Banyaknya e-commerce yang tersedia membuat kegiatan window shopping menjadi kegiatan yang mengasyikan bagi sebagian orang sebagai hiburan. Namun hal tersebut juga membawa beberapa hal yang kurang baik, dimana sifat konsumtif bisa meningkat. Kita menjadi ingin membeli barang yang mungkin tidak kita butuhkan. Jaringan pada e-commerce yang mencangkup hampir sebagian besar wilayah dunia membuat banyak barang unik dan menarik bersliweran di depan mata. Mudahnya pembayaran menggunakan fasilitas checkout atau paylater juga menjadi pisau bermata dua yang harus kita waspadai.",
       "video": ""
     },
     {
       "id": 20,
-      "category": "ADVICE",
-      "title": "How to get a personal loan fast",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image21",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/20.How%20to%20get%20a%20personal%20loan%20fast.html",
+      "category": "Tips",
+      "title": "7. Pinjamlah hanya untuk kebutuhan yang produktif bukan konsumtif",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img03.jpg",
+      "content": "Kenali lebih dahulu bagaimana kondisi keuangan kita, sehingga kita dapat memutuskan apakah sebuah langkah yang tepat jika kita meminjam uang. Karena memang bukan hal haram untuk kita meminjam uang. Melakukan pinjaman diperbolehkan selama masih pada batas kemampuan kita, biasanya ada batas maksimal sekitar 30% dari pendapatan kita yang masih bisa dikatakan sebagai pinjaman yang diperbolehkan. Selain itu baiknya pinjaman tersebut digunakan untuk hal yang sifatnya produktif, seperti untuk modal usaha atau membeli peralatan untuk usaha, dan lain sebagainya. Bukan digunakan untuk hal yang sifatnya konsumtif seperti liburan, nonton konser dan sebagainya.",
       "video": ""
     },
     {
       "id": 21,
-      "category": "ADVICE",
-      "title": "Fast loans for bad credit",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image21",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/21.Fast%20loans%20for%20bad%20credit.html",
-      "video": ""
-    },
-	{
-      "id": 22,
-      "category": "ADVICE",
-      "title": "How to get fast cash without a loan",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image21",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/22.How%20to%20get%20fast%20cash%20without%20a%20loan.html",
-      "video": ""
-    },
-	{
-      "id": 23,
-      "category": "ADVICE",
-      "title": "Fast loans to avoid",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20IMAGE%20BARAT/Image21",
-      "content": "https://raw.githubusercontent.com/papanancy/SINAU/main/CONTENT%20HTML%20BARAT/23.Fast%20loans%20to%20avoid.html",
+      "category": "Tips",
+      "title": "8. Hindari gali lubang tutup lubang",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/imgCONTENT/img04.jpg",
+      "content": "Utamakan untuk membayar utang yang ada ketika kita memperoleh gaji. Hindari untuk membayar utang dengan utang lainnya jika tak mau terlilit pusaran hutang. Hal ini tidak menyelesaikan masalah namun akan membuat masalah baru.
+
+Melakukan pinjaman bukanlah hal yang dilarang selama itu untuk hal yang produktif dan bisa dikelola dengan baik. Namun akan lebih baik jika kita bisa mengatur keuangan kita dengan baik sehingga tidak perlu untuk melakukan pinjaman, apalagi terjerat dalam lingkaran pinjol ilegal.",
       "video": ""
     }
   ],
   "more_apps": [
     {
       "id": 1,
-      "title": "Danafix",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/MOREAPPS/danafix.png",
-      "url": "https://play.google.com/store/apps/details?id=com.danafix.pinjamanclue.terbaru"
-    },
-    {
-      "id": 2,
-      "title": "Danamu",
-      "image": "https://raw.githubusercontent.com/papanancy/SINAU/main/MOREAPPS/danamu.png",
-      "url": "https://play.google.com/store/apps/details?id=com.thekeongbalab.danamuadvice"
+      "title": "Spinjam",
+      "image": "https://raw.githubusercontent.com/papanancy/sanggertheloos/main/MOREAPPS/icon.png",
+      "url": "https://play.google.com/store/apps/details?id=com.jalansatuem.spinjamshopee"
     }
   ]
 }
