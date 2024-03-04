@@ -3,8 +3,8 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=N0fQJDiVp8HDCrpl3vg79luAQNdSB1WN",
-      "email_feedback_and_report": "daniellll21577@gmail.com",
+      "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=POfuSPUrtxp5o9Dxn29XkIlE1ZNrxBk2",
+      "email_feedback_and_report": "itsmywaytoup@gmail.com",
       "webview_cache": true,
       "post_list_in_large_style": false,
       "show_post_list_header": true,
@@ -76,190 +76,182 @@
     {
       "id": 1,
       "name": "Tips",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/CATEGORY/tips2.png"
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/kategori/tips.png"
     },
     {
       "id": 2,
-      "name": "Trick",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/CATEGORY/tricks2.png"
+      "name": "Tricks",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/kategori/tricks.png"
     }
   ],
   "posts": [
     {
       "id": 1,
       "category": "Tips",
-      "title": "Mengapa Memilih Danamu",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im22.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/7.Mengapa%20memilih%20DanaMu.html",
+      "title": "Begini Cara Pinjam Uang di Shopee, Ketahui Syaratnya Agar Cepat Cair",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img01.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/1.Begini%20Cara%20Pinjam%20Uang%20di%20Shopee%2C%20Ketahui%20Syaratnya%20Agar%20Cepat%20Cair.html",
       "video": ""
     },
     {
       "id": 2,
       "category": "Tips",
-      "title": "Langsung Cair, Cara Pinjam Uang di Pinjol Ammana Syariah Tanpa Riba dan Jaminan",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im23.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/2.Langsung%20Cair%2C%20Cara%20Pinjam%20Uang%20di%20Pinjol%20Ammana%20Syariah%20Tanpa%20Riba%20dan%20Jaminan.html",
+      "title": "Cara Pinjam Uang di Shopee",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img02.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/2.Cara%20Pinjam%20Uang%20di%20Shopee.html",
       "video": ""
     },
     {
       "id": 3,
       "category": "Tips",
-      "title": "Cara Cek KTP Dipakai Orang Lain Utang Pinjol dan Solusinya",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im24.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/3.Cara%20Cek%20KTP%20Dipakai%20Orang%20Lain%20Utang%20Pinjol%20dan%20Solusinya.html",
+      "title": "Syarat Daftar SPinjam",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img03.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/3.Syarat%20Daftar%20SPinjam.html",
       "video": ""
     },
     {
       "id": 4,
       "category": "Tips",
-      "title": "Begini Cara Pinjam Uang di Shopee, Ketahui Syaratnya Agar Cepat Cair",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im25.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/4.Begini%20Cara%20Pinjam%20Uang%20di%20Shopee%2C%20Ketahui%20Syaratnya%20Agar%20Cepat%20Cair.html",
+      "title": "Perbedaan SPinjam dan SPayLater",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img04.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/4.Perbedaan%20SPinjam%20dan%20SPayLater.html",
       "video": ""
     },
     {
       "id": 5,
       "category": "Tips",
-      "title": "Pinjol Mengungkap cara kerja aplikasi pemberi utang yang memeras nasabah dengan foto-foto bugil",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im26.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/5.Pinjol%20Mengungkap%20cara%20kerja%20aplikasi%20pemberi%20utang%20yang%20memeras%20nasabah%20dengan%20foto-foto%20bugil.html",
+      "title": "Aman dan Langsung Cair!",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img05.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/5.Aman%20dan%20Langsung%20Cair!.html",
       "video": ""
     },
     {
       "id": 6,
       "category": "Tips",
-      "title": "Cara Pinjol Ilegal Mendapatkan Data Diri Calon Korban",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im27.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/6.Cara%20Pinjol%20Ilegal%20Mendapatkan%20Data%20Diri%20Calon%20%E2%80%98Korban%E2%80%99.html",
+      "title": "Syarat dan Cara Mengaktifkan Shopee Pinjam (SPinjam)",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img06.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/6.Syarat%20dan%20Cara%20Mengaktifkan%20Shopee%20Pinjam%20(SPinjam).html",
       "video": ""
     },
     {
       "id": 7,
       "category": "Tips",
-      "title": "Cara Pinjam Uang di Danafix Hingga 10 Juta Resmi OJK",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im28.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/1.Cara%20Pinjam%20Uang%20di%20Danafix%20Limit%20Hingga%20Rp10%20Juta%2C%20Resmi%20OJK.html",
+      "title": "Cara Pembayaran SPinjam di Shopee",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img07.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/7.Cara%20Pembayaran%20SPinjam%20di%20Shopee.html",
       "video": ""
     },
     {
       "id": 8,
       "category": "Tips",
-      "title": "Tips Mengajukan Pinjaman Online agar Cepat Cair",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im29.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/8.Tips%20Mengajukan%20Pinjaman%20Online%20agar%20Cepat%20Cair.html",
+      "title": "Apakah Pinjam Uang di Shopee Aman",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img08.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/8.Apakah%20Pinjam%20Uang%20di%20Shopee%20Aman.html",
       "video": ""
     },
     {
       "id": 9,
       "category": "Tips",
-      "title": "Easycash",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im30.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/9.Easycash.html",
+      "title": "Cara dan Syarat Pinjam Uang di Shopee",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img09.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/9.Cara%20dan%20Syarat%20Pinjam%20Uang%20di%20Shopee.html",
       "video": ""
     },
     {
       "id": 10,
       "category": "Tips",
-      "title": "Danamas",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im31.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/10.Danamas.html",
+      "title": "Keuntungan Menggunakan Shopee Pinjam yang Aman dan Proses Cepat",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img10.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/10.Keuntungan%20Menggunakan%20Shopee%20Pinjam%20yang%20Aman%20dan%20Proses%20Cepat.html",
       "video": ""
     },
     {
       "id": 11,
-      "category": "Trick",
-      "title": "Maucash",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im32.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/11.Maucash.html",
+      "category": "Tricks",
+      "title": "Mengenal Layanan SPinjam",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img11.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/11.Mengenal%20Layanan%20SPinjam.html",
       "video": ""
     },
     {
       "id": 12,
-      "category": "Trick",
-      "title": "RupiahCepat",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im33.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/12.RupiahCepat.html",
+      "category": "Tricks",
+      "title": "Syarat Pinjam Uang di SPinjam",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img12.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/12.Syarat%20Pinjam%20Uang%20di%20SPinjam.html",
       "video": ""
     },
     {
       "id": 13,
-      "category": "Trick",
-      "title": "Kredit Pintar",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im34.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/13.Kredit%20Pintar.html",
+      "category": "Tricks",
+      "title": "Cara mengaktifkan SPinjam Shopee",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img13.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/13.Cara%20mengaktifkan%20SPinjam%20Shopee.html",
       "video": ""
     },
     {
       "id": 14,
-      "category": "Trick",
-      "title": "AdaKami",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im35.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/14.AdaKami.html",
+      "category": "Tricks",
+      "title": "Tips Pinjam Uang lewat Shopee Selain SPinjam",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img14.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/14.Tips%20Pinjam%20Uang%20lewat%20Shopee%20Selain%20SPinjam.html",
       "video": ""
     },
     {
       "id": 15,
-      "category": "Trick",
-      "title": "DanaRupiah",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im36.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/15.DanaRupiah.html",
+      "category": "Tricks",
+      "title": "Cara Pinjam Uang di Shopee, Limit Hingga Rp12 Juta",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img15.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/15.Cara%20Pinjam%20Uang%20di%20Shopee%2C%20Limit%20Hingga%20Rp12%20Juta.html",
       "video": ""
     },
     {
       "id": 16,
-      "category": "Trick",
-      "title": "Indodana",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im37.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/16.Indodana.html",
+      "category": "Tricks",
+      "title": "Cara Mengajukan Pinjaman Uang di Shopee dengan SPinjam",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img16.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/16.Cara%20Mengajukan%20Pinjaman%20Uang%20di%20Shopee%20dengan%20SPinjam.html",
       "video": ""
     },
     {
       "id": 17,
-      "category": "Trick",
-      "title": "KoinWorks",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im38.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/17.KoinWorks.html",
+      "category": "Tricks",
+      "title": "Cara mengatasi verifikasi error",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img17.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/17.Cara%20mengatasi%20verifikasi%20error.html",
       "video": ""
     },
     {
       "id": 18,
-      "category": "Trick",
-      "title": "OK Bank KTA",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im39.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/18.OK!%20Bank%20KTA.html",
+      "category": "Tricks",
+      "title": "Besaran Limit Shopee Pinjam atau SPinjam dan Cara Menaikannya",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img18.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/18.Besaran%20Limit%20Shopee%20Pinjam%20atau%20SPinjam%20dan%20Cara%20Menaikannya.html",
       "video": ""
     },
     {
       "id": 19,
-      "category": "Trick",
-      "title": "Amartha",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im40.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/19.Amartha.html",
+      "category": "Tricks",
+      "title": "Langkah Mudah Mencairkan SPinjam ke Dana Kurang dari 3 Hari",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img19.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/19.Langkah%20Mudah%20Mencairkan%20SPinjam%20ke%20Dana%20Kurang%20dari%203%20Hari.html",
       "video": ""
     },
 	{
       "id": 20,
-      "category": "Trick",
-      "title": "KTA Kilat",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im41.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/20.KTA%20Kilat.html",
-      "video": ""
-    },
-	{
-      "id": 21,
-      "category": "Trick",
-      "title": "KlikA2C",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im42.jpg",
-      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/21.KlikA2C.html",
+      "category": "Tricks",
+      "title": "Bisa Langsung Cair",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/img/img20.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/Likaliku/main/HtML/20.Bisa%20Langsung%20Cair.html",
       "video": ""
     }
   ],
   "more_apps": [
     {
       "id": 1,
-      "title": "Wallpaper Alam Indonesia",
-      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/MORE/icon.png",
-      "url": "https://play.google.com/store/apps/details?id=com.jayaagen.alamindonesia"
+      "title": "Spinjam Guide",
+      "image": "https://raw.githubusercontent.com/papanancy/Likaliku/main/more/icon.png",
+      "url": "https://play.google.com/store/apps/details?id=com.resepolahandaging.guidetip"
     }
   ]
 }
